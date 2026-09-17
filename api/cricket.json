@@ -1,0 +1,63 @@
+{
+  "matches": [
+    {
+      "id": "cricket-001",
+      "league": "Afghanistan vs India 2026",
+      "format": "T20I",
+      "team1": "India",
+      "team1_logo": "https://flagcdn.com/w160/in.png",
+      "team2": "Afghanistan",
+      "team2_logo": "https://flagcdn.com/w160/af.png",
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "start_time": "2026-09-17T19:45:00+05:45",
+      "status": "upcoming",
+      "duration": 210,
+      "watch_url": "/p/watch.html?id=cricket-001"
+    },
+
+    {
+      "id": "cricket-002",
+      "league": "Sri Lanka Tour of England 2026",
+      "format": "T20I",
+      "team1": "England",
+      "team1_logo": "https://flagcdn.com/w160/gb-eng.png",
+      "team2": "Sri Lanka",
+      "team2_logo": "https://flagcdn.com/w160/lk.png",
+      "venue": "Sophia Gardens, Cardiff",
+      "start_time": "2026-09-17T23:15:00+05:45",
+      "status": "upcoming",
+      "duration": 210,
+      "watch_url": "/p/watch.html?id=cricket-002"
+    },
+
+    {
+      "id": "cricket-003",
+      "league": "European T20 Premier League 2026",
+      "format": "T20",
+      "team1": "Edinburgh Castle Rockers",
+      "team1_logo": "https://dummyimage.com/100x100/111/ffffff&text=ECR",
+      "team2": "Belfast Wolves",
+      "team2_logo": "https://dummyimage.com/100x100/111/ffffff&text=BW",
+      "venue": "The Village, Malahide, Dublin",
+      "start_time": "2026-09-17T15:15:00+05:45",
+      "status": "upcoming",
+      "duration": 180,
+      "watch_url": "/p/watch.html?id=cricket-003"
+    },
+
+    {
+      "id": "cricket-004",
+      "league": "European T20 Premier League 2026",
+      "format": "T20",
+      "team1": "Rotterdam Dockers",
+      "team1_logo": "https://dummyimage.com/100x100/111/ffffff&text=RD",
+      "team2": "Dublin Guardians",
+      "team2_logo": "https://dummyimage.com/100x100/111/ffffff&text=DG",
+      "venue": "The Village, Malahide, Dublin",
+      "start_time": "2026-09-17T19:00:00+05:45",
+      "status": "upcoming",
+      "duration": 180,
+      "watch_url": "/p/watch.html?id=cricket-004"
+    }
+  ]
+}
