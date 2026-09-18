@@ -1,6 +1,6 @@
 [
   {
-    "id": "football-002",
+    "id": "bre",
     "sport": "football",
     "league": "Premier League",
     "format": "Premier League",
@@ -15,7 +15,7 @@
   },
 
   {
-    "id": "football-003",
+    "id": "bay",
     "sport": "football",
     "league": "Bundesliga",
     "format": "Bundesliga",
@@ -30,7 +30,7 @@
   },
 
   {
-    "id": "football-004",
+    "id": "mon",
     "sport": "football",
     "league": "Serie A",
     "format": "Serie A",
