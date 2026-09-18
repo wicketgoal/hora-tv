@@ -1,32 +1,100 @@
-{
-  "matches": [
-    {
-      "id": "cricket-001",
-      "league": "Afghanistan vs India 2026",
-      "format": "T20I",
-      "team1": "India",
-      "team1_logo": "https://flagcdn.com/w160/in.png",
-      "team2": "Afghanistan",
-      "team2_logo": "https://flagcdn.com/w160/af.png",
-      "venue": "Arun Jaitley Stadium, Delhi",
-      "start_time": "2026-09-17T19:45:00+05:45",
-      "status": "upcoming",
-      "duration": 210,
-      "watch_url": "/p/watch.html?id=cricket-001"
-    },
-    {
-      "id": "cricket-002",
-      "league": "Sri Lanka Tour of England 2026",
-      "format": "T20I",
-      "team1": "England",
-      "team1_logo": "https://flagcdn.com/w160/gb-eng.png",
-      "team2": "Sri Lanka",
-      "team2_logo": "https://flagcdn.com/w160/lk.png",
-      "venue": "Sophia Gardens, Cardiff",
-      "start_time": "2026-09-17T23:15:00+05:45",
-      "status": "upcoming",
-      "duration": 210,
-      "watch_url": "/p/watch.html?id=cricket-002"
-    }
-  ]
-}
+[
+  {
+    "id": "cricket-003",
+    "league": "Australia Tour of Zimbabwe 2026",
+    "format": "ODI",
+    "team1": "Zimbabwe",
+    "team1_logo": "https://flagcdn.com/w160/zw.png",
+    "team2": "Australia",
+    "team2_logo": "https://flagcdn.com/w160/au.png",
+    "venue": "Harare Sports Club, Harare",
+    "start_time": "2026-09-18T13:15:00+05:45",
+    "status": "upcoming",
+    "duration": 480,
+    "watch_url": "/p/watch.html?id=cricket-003"
+  },
+  {
+    "id": "cricket-004",
+    "league": "Africa Continental Cup 2026",
+    "format": "T20",
+    "team1": "Kenya",
+    "team1_logo": "https://flagcdn.com/w160/ke.png",
+    "team2": "Uganda",
+    "team2_logo": "https://flagcdn.com/w160/ug.png",
+    "venue": "Gahanga International Cricket Stadium, Kigali",
+    "start_time": "2026-09-18T13:15:00+05:45",
+    "status": "upcoming",
+    "duration": 210,
+    "watch_url": "/p/watch.html?id=cricket-004"
+  },
+  {
+    "id": "cricket-005",
+    "league": "Africa Continental Cup 2026",
+    "format": "T20",
+    "team1": "Sierra Leone",
+    "team1_logo": "https://flagcdn.com/w160/sl.png",
+    "team2": "Botswana",
+    "team2_logo": "https://flagcdn.com/w160/bw.png",
+    "venue": "Gahanga International Cricket Stadium, Kigali",
+    "start_time": "2026-09-18T17:15:00+05:45",
+    "status": "upcoming",
+    "duration": 210,
+    "watch_url": "/p/watch.html?id=cricket-005"
+  },
+  {
+    "id": "cricket-006",
+    "league": "Hong Kong Tour of Japan 2026",
+    "format": "T20I",
+    "team1": "Japan",
+    "team1_logo": "https://flagcdn.com/w160/jp.png",
+    "team2": "Hong Kong",
+    "team2_logo": "https://flagcdn.com/w160/hk.png",
+    "venue": "Sano International Cricket Ground, Sano",
+    "start_time": "2026-09-19T06:45:00+05:45",
+    "status": "upcoming",
+    "duration": 210,
+    "watch_url": "/p/watch.html?id=cricket-006"
+  },
+  {
+    "id": "cricket-007",
+    "league": "Africa Continental Cup 2026",
+    "format": "T20",
+    "team1": "TBC",
+    "team1_logo": "",
+    "team2": "TBC",
+    "team2_logo": "",
+    "venue": "Gahanga International Cricket Stadium, Kigali",
+    "start_time": "2026-09-19T17:15:00+05:45",
+    "status": "upcoming",
+    "duration": 210,
+    "watch_url": "/p/watch.html?id=cricket-007"
+  },
+  {
+    "id": "cricket-008",
+    "league": "South Africa Women Tour of Zimbabwe 2026",
+    "format": "T20I",
+    "team1": "Zimbabwe Women",
+    "team1_logo": "https://flagcdn.com/w160/zw.png",
+    "team2": "South Africa Women",
+    "team2_logo": "https://flagcdn.com/w160/za.png",
+    "venue": "Bulawayo, Zimbabwe",
+    "start_time": "2026-09-19T17:15:00+05:45",
+    "status": "upcoming",
+    "duration": 180,
+    "watch_url": "/p/watch.html?id=cricket-008"
+  },
+  {
+    "id": "cricket-009",
+    "league": "Sri Lanka Tour of England 2026",
+    "format": "T20I",
+    "team1": "England",
+    "team1_logo": "https://flagcdn.com/w160/gb-eng.png",
+    "team2": "Sri Lanka",
+    "team2_logo": "https://flagcdn.com/w160/lk.png",
+    "venue": "Emirates Old Trafford, Manchester",
+    "start_time": "2026-09-19T19:15:00+05:45",
+    "status": "upcoming",
+    "duration": 210,
+    "watch_url": "/p/watch.html?id=cricket-009"
+  }
+]
