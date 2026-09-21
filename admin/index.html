@@ -273,66 +273,82 @@ async function loadData() {
 
   try {
 
-    const cricketResponse = await fetch('../cricket.json');
-    const cricketText = await cricketResponse.text();
+    const files = [
+      ['cricket', '../cricket.json'],
+      ['football', '../football.json'],
+      ['other', '../others.json'],
+      ['streams', '../streams.json']
+    ];
 
-    console.log("CRICKET RESPONSE:", cricketText);
+    const data = {};
 
-    if (!cricketText.trim()) {
-      throw new Error("cricket.json is empty");
+    for (const [name, url] of files) {
+
+      console.log('Loading:', name, url);
+
+      const response = await fetch(url);
+
+      if (!response.ok) {
+        throw new Error(
+          name + '.json returned HTTP ' + response.status
+        );
+      }
+
+      const text = await response.text();
+
+      console.log(
+        name + '.json length:',
+        text.length
+      );
+
+      try {
+
+        data[name] = JSON.parse(text);
+
+      } catch (e) {
+
+        throw new Error(
+          name + '.json has invalid JSON: ' +
+          e.message
+        );
+
+      }
+
     }
 
-    const cricket = JSON.parse(cricketText);
+
+    /* SAVE STREAM DATA */
+
+    existingStreams = data.streams;
 
 
-    const footballResponse = await fetch('../football.json');
-    const footballText = await footballResponse.text();
-
-    console.log("FOOTBALL RESPONSE:", footballText);
-
-    if (!footballText.trim()) {
-      throw new Error("football.json is empty");
-    }
-
-    const football = JSON.parse(footballText);
-
-
-    const otherResponse = await fetch('../others.json');
-    const otherText = await otherResponse.text();
-
-    console.log("OTHERS RESPONSE:", otherText);
-
-    if (!otherText.trim()) {
-      throw new Error("others.json is empty");
-    }
-
-    const others = JSON.parse(otherText);
-
-
-    const streamsResponse = await fetch('../streams.json');
-    const streamsText = await streamsResponse.text();
-
-    console.log("STREAMS RESPONSE:", streamsText);
-
-    if (!streamsText.trim()) {
-      throw new Error("streams.json is empty");
-    }
-
-    existingStreams = JSON.parse(streamsText);
-
+    /* CREATE MATCH LIST */
 
     allMatches = [
 
-      ...normaliseMatches(cricket, 'cricket'),
+      ...normaliseMatches(
+        data.cricket,
+        'cricket'
+      ),
 
-      ...normaliseMatches(football, 'football'),
+      ...normaliseMatches(
+        data.football,
+        'football'
+      ),
 
-      ...normaliseMatches(others, 'other')
+      ...normaliseMatches(
+        data.other,
+        'other'
+      )
 
     ];
 
 
-    console.log("ALL MATCHES:", allMatches);
+    console.log(
+      'ALL MATCHES:',
+      allMatches
+    );
+
 
     renderMatches();
 
@@ -340,7 +356,10 @@ async function loadData() {
 
   catch (error) {
 
-    console.error("STREAM MANAGER ERROR:", error);
+    console.error(
+      'STREAM MANAGER ERROR:',
+      error
+    );
 
     document.getElementById(
       'matchesContainer'
@@ -363,7 +382,6 @@ async function loadData() {
   }
 
 }
-
 /* --------------------------------
    NORMALISE DATA
 -------------------------------- */
