@@ -11,6 +11,35 @@
     "status": "upcoming",
     "duration": 240
   },
+  
+  {
+ 
+    "league": "South Asian Games - Women's Cricket",
+    "format": "T20",
+    "team1": "India",
+    "team1_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/mlXOOB9HXxLpoeS2dHSgGA_96x96.png",
+    "team2": "Sri Lanka",
+    "team2_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/OC5jEMcI70iVSVE7HL12ww_96x96.png",
+    "venue": "Korogi Sports Park",
+    "start_time": "2026-09-22T10:45:00+05:45",
+    "status": "upcoming",
+    "duration": 210
+
+  },
+  {
+   
+    "league": "Sri Lanka Tour of England",
+    "format": "ODI",
+    "team1": "England",
+    "team1_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
+    "team2": "Sri Lanka",
+    "team2_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/OC5jEMcI70iVSVE7HL12ww_96x96.png",
+    "venue": "Riverside Ground",
+    "start_time": "2026-09-22T17:15:00+05:45",
+    "status": "upcoming",
+    "duration": 450
+  },
+
   {
  
     "league": "South Asian Games Cricket",
@@ -20,78 +49,9 @@
     "team2": "Afghanistan",
     "team2_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/8rwaXVaUKfdJq31QgGtQrw_96x96.png",
     "venue": "Korogi Sports Park",
-    "start_time": "2026-09-25T09:15:15+05:45",
+    "start_time": "2026-09-25T10:45:15+05:45",
     "status": "upcoming",
     "duration": 240
-  },
-  {
- 
-    "league": "Africa Continental Cup 2026",
-    "format": "T20",
-    "team1": "Sierra Leone",
-    "team1_logo": "https://flagcdn.com/w160/sl.png",
-    "team2": "Botswana",
-    "team2_logo": "https://flagcdn.com/w160/bw.png",
-    "venue": "Gahanga International Cricket Stadium, Kigali",
-    "start_time": "2026-09-21T10:00:00+05:45",
-    "status": "upcoming",
-    "duration": 210
-
-  },
-  {
-    "id": "jap",
-    "league": "Hong Kong Tour of Japan 2026",
-    "format": "T20I",
-    "team1": "Japan",
-    "team1_logo": "https://flagcdn.com/w160/jp.png",
-    "team2": "Hong Kong",
-    "team2_logo": "https://flagcdn.com/w160/hk.png",
-    "venue": "Sano International Cricket Ground, Sano",
-    "start_time": "2026-09-19T06:45:00+05:45",
-    "status": "upcoming",
-    "duration": 210,
-    "watch_url": "/p/watch.html?id=cricket-006"
-  },
-  {
-    "id": "cricket-007",
-    "league": "Africa Continental Cup 2026",
-    "format": "T20",
-    "team1": "TBC",
-    "team1_logo": "",
-    "team2": "TBC",
-    "team2_logo": "",
-    "venue": "Gahanga International Cricket Stadium, Kigali",
-    "start_time": "2026-09-19T17:15:00+05:45",
-    "status": "upcoming",
-    "duration": 210,
-    "watch_url": "/p/watch.html?id=cricket-007"
-  },
-  {
-    "id": "cricket-008",
-    "league": "South Africa Women Tour of Zimbabwe 2026",
-    "format": "T20I",
-    "team1": "Zimbabwe Women",
-    "team1_logo": "https://flagcdn.com/w160/zw.png",
-    "team2": "South Africa Women",
-    "team2_logo": "https://flagcdn.com/w160/za.png",
-    "venue": "Bulawayo, Zimbabwe",
-    "start_time": "2026-09-19T17:15:00+05:45",
-    "status": "upcoming",
-    "duration": 180,
-    "watch_url": "/p/watch.html?id=cricket-008"
-  },
-  {
-    "id": "cricket-009",
-    "league": "Sri Lanka Tour of England 2026",
-    "format": "T20I",
-    "team1": "England",
-    "team1_logo": "https://flagcdn.com/w160/gb-eng.png",
-    "team2": "Sri Lanka",
-    "team2_logo": "https://flagcdn.com/w160/lk.png",
-    "venue": "Emirates Old Trafford, Manchester",
-    "start_time": "2026-09-19T19:15:00+05:45",
-    "status": "upcoming",
-    "duration": 210,
-    "watch_url": "/p/watch.html?id=cricket-009"
   }
+  
 ]
