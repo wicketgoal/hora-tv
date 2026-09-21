@@ -1,12 +1,15 @@
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>HORA TV - Stream Manager</title>
 
 <style>
+
 * {
   box-sizing: border-box;
 }
@@ -24,7 +27,10 @@ body {
   padding: 25px 18px 50px;
 }
 
-/* HEADER */
+
+/* ================================
+   HEADER
+================================ */
 
 .header {
   display: flex;
@@ -48,7 +54,10 @@ body {
   font-size: 13px;
 }
 
-/* SEARCH */
+
+/* ================================
+   SEARCH
+================================ */
 
 .search-box {
   width: 100%;
@@ -70,7 +79,10 @@ body {
   border-color: #1683ff;
 }
 
-/* SECTION */
+
+/* ================================
+   SECTION
+================================ */
 
 .section {
   margin-bottom: 35px;
@@ -94,7 +106,10 @@ body {
   font-size: 20px;
 }
 
-/* MATCH CARD */
+
+/* ================================
+   MATCH CARD
+================================ */
 
 .match-card {
   background: #0b1119;
@@ -145,7 +160,10 @@ body {
   font-size: 12px;
 }
 
-/* BUTTON */
+
+/* ================================
+   MANAGE BUTTON
+================================ */
 
 .manage-btn {
   border: none;
@@ -161,7 +179,10 @@ body {
   background: #006ee6;
 }
 
-/* EMPTY */
+
+/* ================================
+   EMPTY
+================================ */
 
 .empty {
   padding: 25px;
@@ -171,36 +192,395 @@ body {
   border-radius: 8px;
 }
 
-/* MOBILE */
+
+/* ================================
+   STREAM MODAL
+================================ */
+
+.stream-modal-overlay {
+
+  position: fixed;
+
+  inset: 0;
+
+  background: rgba(0, 0, 0, 0.80);
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  padding: 20px;
+
+  z-index: 9999;
+
+}
+
+
+.stream-modal {
+
+  width: 100%;
+
+  max-width: 560px;
+
+  max-height: 90vh;
+
+  overflow-y: auto;
+
+  background: #0b1119;
+
+  border: 1px solid #1683ff;
+
+  border-radius: 12px;
+
+  padding: 22px;
+
+  box-shadow:
+    0 0 30px rgba(22, 131, 255, 0.25);
+
+}
+
+
+/* ================================
+   MODAL HEADER
+================================ */
+
+.stream-modal-header {
+
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: flex-start;
+
+  margin-bottom: 22px;
+
+}
+
+
+.stream-title {
+
+  font-size: 21px;
+
+  font-weight: 700;
+
+  color: #fff;
+
+}
+
+
+.stream-subtitle {
+
+  margin-top: 5px;
+
+  font-size: 12px;
+
+  color: #7f8b9a;
+
+}
+
+
+.stream-close {
+
+  width: 35px;
+
+  height: 35px;
+
+  border: none;
+
+  border-radius: 6px;
+
+  background: #151d28;
+
+  color: #aaa;
+
+  font-size: 25px;
+
+  cursor: pointer;
+
+}
+
+
+.stream-close:hover {
+
+  background: #202b3a;
+
+  color: #fff;
+
+}
+
+
+/* ================================
+   SERVER ITEM
+================================ */
+
+.server-item {
+
+  background: #111923;
+
+  border: 1px solid #1c2938;
+
+  border-radius: 9px;
+
+  padding: 14px;
+
+  margin-bottom: 12px;
+
+}
+
+
+.server-top {
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: space-between;
+
+  margin-bottom: 8px;
+
+}
+
+
+.server-number {
+
+  color: #1683ff;
+
+  font-size: 14px;
+
+  font-weight: 700;
+
+}
+
+
+.server-name,
+.server-url {
+
+  width: 100%;
+
+  background: #080d13;
+
+  color: #fff;
+
+  border: 1px solid #263547;
+
+  border-radius: 6px;
+
+  padding: 11px;
+
+  margin-top: 8px;
+
+  outline: none;
+
+  font-size: 14px;
+
+}
+
+
+.server-name:focus,
+.server-url:focus {
+
+  border-color: #1683ff;
+
+}
+
+
+.server-url {
+
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+/* ================================
+   DELETE BUTTON
+================================ */
+
+.delete-server-btn {
+
+  background: transparent;
+
+  border: 1px solid #3a2a2a;
+
+  color: #ff6666;
+
+  padding: 6px 10px;
+
+  border-radius: 5px;
+
+  cursor: pointer;
+
+  font-size: 12px;
+
+}
+
+
+.delete-server-btn:hover {
+
+  background: #241010;
+
+  border-color: #ff6666;
+
+}
+
+
+/* ================================
+   ADD SERVER
+================================ */
+
+.add-server-btn {
+
+  width: 100%;
+
+  background: transparent;
+
+  border: 1px dashed #1683ff;
+
+  color: #1683ff;
+
+  padding: 12px;
+
+  border-radius: 7px;
+
+  cursor: pointer;
+
+  font-weight: 600;
+
+  margin-top: 4px;
+
+}
+
+
+.add-server-btn:hover {
+
+  background: rgba(22, 131, 255, 0.08);
+
+}
+
+
+/* ================================
+   SAVE
+================================ */
+
+.save-stream-btn {
+
+  width: 100%;
+
+  background: #1683ff;
+
+  border: none;
+
+  color: #fff;
+
+  padding: 13px;
+
+  border-radius: 7px;
+
+  cursor: pointer;
+
+  font-weight: 700;
+
+  margin-top: 14px;
+
+}
+
+
+.save-stream-btn:hover {
+
+  background: #006ee6;
+
+}
+
+
+/* ================================
+   NO SERVERS
+================================ */
+
+.no-servers {
+
+  text-align: center;
+
+  color: #758194;
+
+  padding: 25px 10px;
+
+  border: 1px dashed #263547;
+
+  border-radius: 8px;
+
+  margin-bottom: 12px;
+
+}
+
+
+/* ================================
+   MOBILE
+================================ */
 
 @media (max-width: 600px) {
 
   .header {
+
     align-items: flex-start;
+
     flex-direction: column;
+
     gap: 5px;
+
   }
+
 
   .match-card {
+
     align-items: flex-start;
+
     gap: 15px;
+
     flex-direction: column;
+
   }
 
+
   .manage-btn {
+
     width: 100%;
+
+  }
+
+
+  .stream-modal {
+
+    padding: 17px;
+
+  }
+
+
+  .stream-title {
+
+    font-size: 18px;
+
   }
 
 }
+
 </style>
+
 </head>
+
 
 <body>
 
+
 <div class="container">
 
+
+  <!-- HEADER -->
+
   <div class="header">
+
     <div>
+
       <div class="logo">
         HORA <span>TV</span>
       </div>
@@ -208,23 +588,32 @@ body {
       <div class="subtitle">
         Stream Manager
       </div>
+
     </div>
+
 
     <div class="subtitle">
       Admin Panel
     </div>
+
   </div>
 
 
+  <!-- SEARCH -->
+
   <div class="search-box">
+
     <input
       type="text"
       id="searchBox"
       placeholder="Search matches..."
       oninput="filterMatches()"
     >
+
   </div>
 
+
+  <!-- MATCHES -->
 
   <div id="matchesContainer">
 
@@ -234,81 +623,117 @@ body {
 
   </div>
 
+
 </div>
 
 
 <script>
 
+
+/* ================================
+   CONFIG
+================================ */
+
 const API_URLS = {
+
   cricket: '../cricket.json',
+
   football: '../football.json',
+
   other: '../others.json'
+
 };
+
 
 const STREAMS_URL = '../streams.json';
 
+
 let allMatches = [];
+
 let existingStreams = {};
 
 
-/* --------------------------------
-   GENERATE MATCH ID
--------------------------------- */
+/* ================================
+   MATCH ID
+================================ */
 
 function makeMatchId(team1, team2) {
 
   return `${team1}-vs-${team2}`
+
     .toLowerCase()
+
     .replace(/[^a-z0-9]+/g, "-")
+
     .replace(/^-|-$/g, "");
 
 }
 
 
-/* --------------------------------
+/* ================================
    LOAD DATA
--------------------------------- */
+================================ */
 
 async function loadData() {
 
   try {
 
     const files = [
+
       ['cricket', '../cricket.json'],
+
       ['football', '../football.json'],
+
       ['other', '../others.json'],
+
       ['streams', '../streams.json']
+
     ];
+
 
     const data = {};
 
+
     for (const [name, url] of files) {
 
-      console.log('Loading:', name, url);
+      console.log(
+        'Loading:',
+        name,
+        url
+      );
 
-      const response = await fetch(url);
+
+      const response =
+        await fetch(url);
+
 
       if (!response.ok) {
+
         throw new Error(
-          name + '.json returned HTTP ' + response.status
+          name +
+          '.json returned HTTP ' +
+          response.status
         );
+
       }
 
-      const text = await response.text();
 
-      console.log(
-        name + '.json length:',
-        text.length
-      );
+      const text =
+        await response.text();
+
 
       try {
 
-        data[name] = JSON.parse(text);
+        data[name] =
+          JSON.parse(text);
 
-      } catch (e) {
+      }
+
+      catch (e) {
 
         throw new Error(
-          name + '.json has invalid JSON: ' +
+          name +
+          '.json has invalid JSON: ' +
           e.message
         );
 
@@ -317,12 +742,9 @@ async function loadData() {
     }
 
 
-    /* SAVE STREAM DATA */
+    existingStreams =
+      data.streams || {};
 
-    existingStreams = data.streams;
-
-
-    /* CREATE MATCH LIST */
 
     allMatches = [
 
@@ -344,15 +766,10 @@ async function loadData() {
     ];
 
 
-    console.log(
-      'ALL MATCHES:',
-      allMatches
-    );
-
-
     renderMatches();
 
   }
+
 
   catch (error) {
 
@@ -360,6 +777,7 @@ async function loadData() {
       'STREAM MANAGER ERROR:',
       error
     );
+
 
     document.getElementById(
       'matchesContainer'
@@ -382,13 +800,16 @@ async function loadData() {
   }
 
 }
-/* --------------------------------
-   NORMALISE DATA
--------------------------------- */
+
+
+/* ================================
+   NORMALISE
+================================ */
 
 function normaliseMatches(data, sport) {
 
   let matches = [];
+
 
   if (Array.isArray(data)) {
 
@@ -396,13 +817,21 @@ function normaliseMatches(data, sport) {
 
   }
 
-  else if (data && Array.isArray(data.matches)) {
+
+  else if (
+    data &&
+    Array.isArray(data.matches)
+  ) {
 
     matches = data.matches;
 
   }
 
-  else if (data && typeof data === 'object') {
+
+  else if (
+    data &&
+    typeof data === 'object'
+  ) {
 
     matches = [data];
 
@@ -413,7 +842,8 @@ function normaliseMatches(data, sport) {
 
     ...match,
 
-    sport: match.sport || sport,
+    sport:
+      match.sport || sport,
 
     matchId:
       makeMatchId(
@@ -426,9 +856,9 @@ function normaliseMatches(data, sport) {
 }
 
 
-/* --------------------------------
+/* ================================
    RENDER MATCHES
--------------------------------- */
+================================ */
 
 function renderMatches() {
 
@@ -452,8 +882,11 @@ function renderMatches() {
       const text = `
 
         ${match.team1}
+
         ${match.team2}
+
         ${match.league}
+
         ${match.format}
 
       `.toLowerCase();
@@ -488,13 +921,16 @@ function renderMatches() {
 
 
   let cricketHTML = '';
+
   let footballHTML = '';
+
   let otherHTML = '';
 
 
   matches.forEach(match => {
 
-    const card = createMatchCard(match);
+    const card =
+      createMatchCard(match);
 
 
     if (match.sport === 'cricket') {
@@ -503,7 +939,9 @@ function renderMatches() {
 
     }
 
-    else if (match.sport === 'football') {
+    else if (
+      match.sport === 'football'
+    ) {
 
       footballHTML += card;
 
@@ -528,8 +966,11 @@ function renderMatches() {
       <div class="section">
 
         <div class="section-title">
+
           <span>🏏</span>
+
           <h2>Cricket</h2>
+
         </div>
 
         ${cricketHTML}
@@ -548,8 +989,11 @@ function renderMatches() {
       <div class="section">
 
         <div class="section-title">
+
           <span>⚽</span>
+
           <h2>Football</h2>
+
         </div>
 
         ${footballHTML}
@@ -568,8 +1012,11 @@ function renderMatches() {
       <div class="section">
 
         <div class="section-title">
+
           <span>🎯</span>
+
           <h2>Other</h2>
+
         </div>
 
         ${otherHTML}
@@ -586,14 +1033,16 @@ function renderMatches() {
 }
 
 
-/* --------------------------------
+/* ================================
    MATCH CARD
--------------------------------- */
+================================ */
 
 function createMatchCard(match) {
 
   const hasStreams =
+
     existingStreams[match.matchId] &&
+
     existingStreams[match.matchId].length;
 
 
@@ -601,29 +1050,37 @@ function createMatchCard(match) {
 
     <div class="match-card">
 
+
       <div class="match-info">
+
 
         <div class="team-logos">
 
+
           <img
-            src="${match.team1_logo || ''}"
+            src="${escapeHTML(match.team1_logo || '')}"
             onerror="this.style.display='none'"
           >
 
+
           <img
-            src="${match.team2_logo || ''}"
+            src="${escapeHTML(match.team2_logo || '')}"
             onerror="this.style.display='none'"
           >
+
 
         </div>
 
 
         <div>
 
+
           <div class="teams">
 
             ${escapeHTML(match.team1)}
+
             vs
+
             ${escapeHTML(match.team2)}
 
           </div>
@@ -639,25 +1096,30 @@ function createMatchCard(match) {
 
             •
 
-            ${hasStreams
-              ? '🟢 Streams Added'
-              : '⚪ No Streams'}
+            ${
+              hasStreams
+                ? '🟢 Streams Added'
+                : '⚪ No Streams'
+            }
 
           </div>
 
+
         </div>
+
 
       </div>
 
 
       <button
         class="manage-btn"
-        onclick="manageStreams('${match.matchId}')"
+        onclick="manageStreams('${escapeHTML(match.matchId)}')"
       >
 
         MANAGE
 
       </button>
+
 
     </div>
 
@@ -666,9 +1128,9 @@ function createMatchCard(match) {
 }
 
 
-/* --------------------------------
+/* ================================
    SEARCH
--------------------------------- */
+================================ */
 
 function filterMatches() {
 
@@ -677,9 +1139,9 @@ function filterMatches() {
 }
 
 
-/* --------------------------------
+/* ================================
    MANAGE STREAMS
--------------------------------- */
+================================ */
 
 function manageStreams(matchId) {
 
@@ -689,53 +1151,468 @@ function manageStreams(matchId) {
     );
 
 
-  if (!match) return;
+  if (!match) {
+
+    alert('Match not found.');
+
+    return;
+
+  }
 
 
   const streams =
     existingStreams[matchId] || [];
 
 
-  let message =
-
-    match.team1 +
-    ' vs ' +
-    match.team2 +
-    '\\n\\n';
+  let serverHTML = '';
 
 
-  if (streams.length) {
+  if (!streams.length) {
 
-    streams.forEach((stream, index) => {
+    serverHTML = `
 
-      message +=
+      <div
+        class="no-servers"
+        id="noServers"
+      >
 
-        'Server ' +
-        (index + 1) +
-        ': ' +
-        stream.url +
-        '\\n';
+        No servers added yet.
 
-    });
+      </div>
+
+    `;
 
   }
+
 
   else {
 
-    message +=
-      'No streams added yet.';
+    streams.forEach(
+      (stream, index) => {
+
+        serverHTML +=
+          createServerHTML(
+            index,
+            stream
+          );
+
+      }
+    );
 
   }
 
 
-  alert(message);
+  const modal = `
+
+    <div
+      class="stream-modal-overlay"
+      id="streamModal"
+      onclick="closeStreamModal(event)"
+    >
+
+
+      <div
+        class="stream-modal"
+        onclick="event.stopPropagation()"
+      >
+
+
+        <div class="stream-modal-header">
+
+
+          <div>
+
+            <div class="stream-title">
+
+              ${escapeHTML(match.team1)}
+
+              vs
+
+              ${escapeHTML(match.team2)}
+
+            </div>
+
+
+            <div class="stream-subtitle">
+
+              ${escapeHTML(match.league || '')}
+
+              •
+
+              ${formatDate(match.start_time)}
+
+            </div>
+
+          </div>
+
+
+          <button
+            class="stream-close"
+            onclick="closeStreamModal()"
+          >
+
+            ×
+
+          </button>
+
+
+        </div>
+
+
+        <div id="serverList">
+
+          ${serverHTML}
+
+        </div>
+
+
+        <button
+          class="add-server-btn"
+          onclick="addServer()"
+        >
+
+          + Add Server
+
+        </button>
+
+
+        <button
+          class="save-stream-btn"
+          onclick="saveStreams('${escapeHTML(matchId)}')"
+        >
+
+          SAVE CHANGES
+
+        </button>
+
+
+      </div>
+
+    </div>
+
+  `;
+
+
+  document.body.insertAdjacentHTML(
+    'beforeend',
+    modal
+  );
 
 }
 
 
-/* --------------------------------
+/* ================================
+   CREATE SERVER
+================================ */
+
+function createServerHTML(index, stream) {
+
+  const name =
+    stream.name ||
+    'Server ' + (index + 1);
+
+
+  const url =
+    stream.url || '';
+
+
+  return `
+
+    <div class="server-item">
+
+
+      <div class="server-top">
+
+        <div class="server-number">
+
+          Server ${index + 1}
+
+        </div>
+
+
+        <button
+          class="delete-server-btn"
+          onclick="deleteServer(this)"
+        >
+
+          Delete
+
+        </button>
+
+      </div>
+
+
+      <input
+        type="text"
+        class="server-name"
+        value="${escapeHTML(name)}"
+        placeholder="Server name"
+      >
+
+
+      <input
+        type="text"
+        class="server-url"
+        value="${escapeHTML(url)}"
+        placeholder="https://example.com/stream.m3u8"
+      >
+
+
+    </div>
+
+  `;
+
+}
+
+
+/* ================================
+   ADD SERVER
+================================ */
+
+function addServer() {
+
+  const list =
+    document.getElementById(
+      'serverList'
+    );
+
+
+  if (!list) return;
+
+
+  const noServers =
+    document.getElementById(
+      'noServers'
+    );
+
+
+  if (noServers) {
+
+    noServers.remove();
+
+  }
+
+
+  const count =
+    list.querySelectorAll(
+      '.server-item'
+    ).length;
+
+
+  list.insertAdjacentHTML(
+
+    'beforeend',
+
+    createServerHTML(
+
+      count,
+
+      {
+        name:
+          'Server ' +
+          (count + 1),
+
+        url: ''
+
+      }
+
+    )
+
+  );
+
+}
+
+
+/* ================================
+   DELETE SERVER
+================================ */
+
+function deleteServer(button) {
+
+  const server =
+    button.closest(
+      '.server-item'
+    );
+
+
+  if (!server) return;
+
+
+  server.remove();
+
+
+  renumberServers();
+
+}
+
+
+/* ================================
+   RENUMBER
+================================ */
+
+function renumberServers() {
+
+  const servers =
+    document.querySelectorAll(
+      '#serverList .server-item'
+    );
+
+
+  servers.forEach(
+    (server, index) => {
+
+      const number =
+        server.querySelector(
+          '.server-number'
+        );
+
+
+      if (number) {
+
+        number.textContent =
+          'Server ' +
+          (index + 1);
+
+      }
+
+
+      const nameInput =
+        server.querySelector(
+          '.server-name'
+        );
+
+
+      if (
+        nameInput &&
+        !nameInput.value.trim()
+      ) {
+
+        nameInput.value =
+          'Server ' +
+          (index + 1);
+
+      }
+
+    }
+  );
+
+}
+
+
+/* ================================
+   SAVE STREAMS
+================================ */
+
+function saveStreams(matchId) {
+
+  const servers = [];
+
+
+  document
+    .querySelectorAll(
+      '#serverList .server-item'
+    )
+    .forEach(server => {
+
+      const nameInput =
+        server.querySelector(
+          '.server-name'
+        );
+
+
+      const urlInput =
+        server.querySelector(
+          '.server-url'
+        );
+
+
+      const name =
+        nameInput.value.trim();
+
+
+      const url =
+        urlInput.value.trim();
+
+
+      if (url) {
+
+        servers.push({
+
+          name:
+            name ||
+            'Server ' +
+            (servers.length + 1),
+
+          url: url
+
+        });
+
+      }
+
+    });
+
+
+  existingStreams[matchId] =
+    servers;
+
+
+  closeStreamModal();
+
+
+  renderMatches();
+
+
+  alert(
+    servers.length +
+    ' server(s) added for this match.'
+  );
+
+}
+
+
+/* ================================
+   CLOSE MODAL
+================================ */
+
+function closeStreamModal() {
+
+  const modal =
+    document.getElementById(
+      'streamModal'
+    );
+
+
+  if (modal) {
+
+    modal.remove();
+
+  }
+
+}
+
+
+/* ================================
+   MODAL BACKDROP
+================================ */
+
+function closeStreamModalOnBackdrop(event) {
+
+  if (
+    event.target.classList.contains(
+      'stream-modal-overlay'
+    )
+  ) {
+
+    closeStreamModal();
+
+  }
+
+}
+
+
+/* ================================
    DATE
--------------------------------- */
+================================ */
 
 function formatDate(dateString) {
 
@@ -751,37 +1628,65 @@ function formatDate(dateString) {
 
 
   return date.toLocaleString(
+
     'en-US',
+
     {
+
       day: '2-digit',
+
       month: 'short',
+
       hour: '2-digit',
+
       minute: '2-digit'
+
     }
+
   );
 
 }
 
 
-/* --------------------------------
+/* ================================
    ESCAPE HTML
--------------------------------- */
+================================ */
 
 function escapeHTML(value) {
 
   return String(value || '')
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/'/g, '&#039;');
+
+    .replace(
+      /&/g,
+      '&amp;'
+    )
+
+    .replace(
+      /</g,
+      '&lt;'
+    )
+
+    .replace(
+      />/g,
+      '&gt;'
+    )
+
+    .replace(
+      /"/g,
+      '&quot;'
+    )
+
+    .replace(
+      /'/g,
+      '&#039;'
+    );
 
 }
 
 
-/* --------------------------------
+/* ================================
    START
--------------------------------- */
+================================ */
 
 loadData();
 
@@ -789,3 +1694,4 @@ loadData();
 
 </body>
 </html>
+```
