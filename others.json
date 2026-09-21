@@ -1,9 +1,9 @@
 [
   {
   
-    "sport": "football",
+    "sport": "others",
     "league": "Women's Champions League",
-    "format": "Women's Champions League",
+    "format": "Group Stage",
     "team1": "Bayern",
     "team1_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
     "team2": "Man City",
@@ -14,9 +14,9 @@
   },
 
   {
-    "sport": "football",
+    "sport": "others",
     "league": "Women's Champions League",
-    "format": "Women's Champions League",
+    "format": "Group Stage",
     "team1": "Inter",
     "team1_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/gpWqqaYc9yESzfkfspryoA_96x96.png",
     "team2": "Man City",
