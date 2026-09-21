@@ -273,28 +273,52 @@ async function loadData() {
 
   try {
 
-    const responses = await Promise.all([
+    const cricketResponse = await fetch('../cricket.json');
+    const cricketText = await cricketResponse.text();
 
-      fetch(API_URLS.cricket),
-      fetch(API_URLS.football),
-      fetch(API_URLS.other),
+    console.log("CRICKET RESPONSE:", cricketText);
 
-      fetch(STREAMS_URL)
+    if (!cricketText.trim()) {
+      throw new Error("cricket.json is empty");
+    }
 
-    ]);
+    const cricket = JSON.parse(cricketText);
 
 
-    const cricket =
-      await responses[0].json();
+    const footballResponse = await fetch('../football.json');
+    const footballText = await footballResponse.text();
 
-    const football =
-      await responses[1].json();
+    console.log("FOOTBALL RESPONSE:", footballText);
 
-    const other =
-      await responses[2].json();
+    if (!footballText.trim()) {
+      throw new Error("football.json is empty");
+    }
 
-    existingStreams =
-      await responses[3].json();
+    const football = JSON.parse(footballText);
+
+
+    const otherResponse = await fetch('../others.json');
+    const otherText = await otherResponse.text();
+
+    console.log("OTHERS RESPONSE:", otherText);
+
+    if (!otherText.trim()) {
+      throw new Error("others.json is empty");
+    }
+
+    const others = JSON.parse(otherText);
+
+
+    const streamsResponse = await fetch('../streams.json');
+    const streamsText = await streamsResponse.text();
+
+    console.log("STREAMS RESPONSE:", streamsText);
+
+    if (!streamsText.trim()) {
+      throw new Error("streams.json is empty");
+    }
+
+    existingStreams = JSON.parse(streamsText);
 
 
     allMatches = [
@@ -303,10 +327,12 @@ async function loadData() {
 
       ...normaliseMatches(football, 'football'),
 
-      ...normaliseMatches(other, 'other')
+      ...normaliseMatches(others, 'other')
 
     ];
 
+
+    console.log("ALL MATCHES:", allMatches);
 
     renderMatches();
 
@@ -314,14 +340,22 @@ async function loadData() {
 
   catch (error) {
 
-    console.error(error);
+    console.error("STREAM MANAGER ERROR:", error);
 
     document.getElementById(
       'matchesContainer'
     ).innerHTML = `
 
       <div class="empty">
+
         Failed to load match data.
+
+        <br><br>
+
+        <small>
+          ${escapeHTML(error.message)}
+        </small>
+
       </div>
 
     `;
@@ -329,7 +363,6 @@ async function loadData() {
   }
 
 }
-
 
 /* --------------------------------
    NORMALISE DATA
