@@ -46,5 +46,11 @@
       "name": "Server 1",
       "url": "https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8"
     }
+  ],
+  "philippines-u23-vs-kuwait-u23": [
+    {
+      "name": "Server 1",
+      "url": "https://wgtv.pages.dev/wg?m=622241"
+    }
   ]
 }
