@@ -1,6 +1,5 @@
 [
   {
-    "id": makeMatchId(team1, team2),
     "league": "India Tour of Japan",
     "format": "T20I",
     "team1": "Japan",
@@ -10,11 +9,10 @@
     "venue": "Sano International Cricket Ground",
     "start_time": "2026-09-22T13:09:45+05:45",
     "status": "upcoming",
-    "duration": 240,
-    "watch_url": ""/p/watch.html?id=" + makeMatchId(team1, team2)"
+    "duration": 240
   },
   {
-    "id": makeMatchId(team1, team2),
+ 
     "league": "South Asian Games Cricket",
     "format": "T20I",
     "team1": "Nepal",
@@ -24,8 +22,7 @@
     "venue": "Korogi Sports Park",
     "start_time": "2026-09-21T13:09:15+05:45",
     "status": "upcoming",
-    "duration": 240,
-    "watch_url": ""/p/watch.html?id=" + makeMatchId(team1, team2)"
+    "duration": 240
   },
   {
     "id": "cricket-005",
