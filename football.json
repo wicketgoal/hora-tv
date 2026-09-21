@@ -1,6 +1,6 @@
 [
   {
-    "id": "bre",
+  
     "sport": "football",
     "league": "Premier League",
     "format": "Premier League",
@@ -9,13 +9,12 @@
     "team2": "Chelsea",
     "team2_logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Chelsea_FC.svg",
     "venue": "Gtech Community Stadium",
-    "start_time": "2026-09-19T00:45:00+05:45",
-    "duration": 120,
-    "watch_url": "/p/watch.html?id=football-002"
+    "start_time": "2026-09-22T00:45:00+05:45",
+    "duration": 120
   },
 
   {
-    "id": "bay",
+ 
     "sport": "football",
     "league": "Bundesliga",
     "format": "Bundesliga",
@@ -24,13 +23,13 @@
     "team2": "Union Berlin",
     "team2_logo": "https://commons.wikimedia.org/wiki/Special:FilePath/1._FC_Union_Berlin_Logo.svg",
     "venue": "Allianz Arena",
-    "start_time": "2026-09-18T23:30:00+05:45",
-    "duration": 120,
-    "watch_url": "/p/watch.html?id=football-003"
+    "start_time": "2026-09-22T23:30:00+05:45",
+    "duration": 120
+  
   },
 
   {
-    "id": "mon",
+ 
     "sport": "football",
     "league": "Serie A",
     "format": "Serie A",
@@ -39,9 +38,9 @@
     "team2": "Sassuolo",
     "team2_logo": "https://commons.wikimedia.org/wiki/Special:FilePath/US_Sassuolo_Calcio_logo.svg",
     "venue": "U-Power Stadium",
-    "start_time": "2026-09-19T00:45:00+05:45",
-    "duration": 120,
-    "watch_url": "/p/watch.html?id=football-004"
+    "start_time": "2026-09-22T00:45:00+05:45",
+    "duration": 120
+
   },
 
   {
