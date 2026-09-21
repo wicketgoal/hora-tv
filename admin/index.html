@@ -1,0 +1,749 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>HORA TV - Stream Manager</title>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #05080d;
+  color: #fff;
+}
+
+.container {
+  max-width: 1100px;
+  margin: auto;
+  padding: 25px 18px 50px;
+}
+
+/* HEADER */
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.logo {
+  font-size: 28px;
+  font-weight: 800;
+  color: #fff;
+}
+
+.logo span {
+  color: #1683ff;
+}
+
+.subtitle {
+  color: #8c98a8;
+  font-size: 13px;
+}
+
+/* SEARCH */
+
+.search-box {
+  width: 100%;
+  margin-bottom: 25px;
+}
+
+.search-box input {
+  width: 100%;
+  padding: 14px 16px;
+  background: #0c121b;
+  border: 1px solid #1c2938;
+  border-radius: 8px;
+  color: #fff;
+  font-size: 15px;
+  outline: none;
+}
+
+.search-box input:focus {
+  border-color: #1683ff;
+}
+
+/* SECTION */
+
+.section {
+  margin-bottom: 35px;
+}
+
+.section-title {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #172231;
+}
+
+.section-title h2 {
+  margin: 0;
+  font-size: 19px;
+}
+
+.section-title span {
+  font-size: 20px;
+}
+
+/* MATCH CARD */
+
+.match-card {
+  background: #0b1119;
+  border: 1px solid #172231;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 10px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  transition: 0.2s;
+}
+
+.match-card:hover {
+  border-color: #1683ff;
+}
+
+.match-info {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.team-logos {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.team-logos img {
+  width: 35px;
+  height: 35px;
+  object-fit: contain;
+  background: #fff;
+  border-radius: 50%;
+  padding: 3px;
+}
+
+.teams {
+  font-weight: 600;
+}
+
+.meta {
+  margin-top: 5px;
+  color: #7f8b9a;
+  font-size: 12px;
+}
+
+/* BUTTON */
+
+.manage-btn {
+  border: none;
+  background: #1683ff;
+  color: #fff;
+  padding: 10px 15px;
+  border-radius: 7px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.manage-btn:hover {
+  background: #006ee6;
+}
+
+/* EMPTY */
+
+.empty {
+  padding: 25px;
+  text-align: center;
+  color: #758194;
+  background: #0b1119;
+  border-radius: 8px;
+}
+
+/* MOBILE */
+
+@media (max-width: 600px) {
+
+  .header {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .match-card {
+    align-items: flex-start;
+    gap: 15px;
+    flex-direction: column;
+  }
+
+  .manage-btn {
+    width: 100%;
+  }
+
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+  <div class="header">
+    <div>
+      <div class="logo">
+        HORA <span>TV</span>
+      </div>
+
+      <div class="subtitle">
+        Stream Manager
+      </div>
+    </div>
+
+    <div class="subtitle">
+      Admin Panel
+    </div>
+  </div>
+
+
+  <div class="search-box">
+    <input
+      type="text"
+      id="searchBox"
+      placeholder="Search matches..."
+      oninput="filterMatches()"
+    >
+  </div>
+
+
+  <div id="matchesContainer">
+
+    <div class="empty">
+      Loading matches...
+    </div>
+
+  </div>
+
+</div>
+
+
+<script>
+
+const API_URLS = {
+
+  cricket:
+    'https://hora-tv.pages.dev/cricket.json',
+
+  football:
+    'https://hora-tv.pages.dev/football.json',
+
+  other:
+    'https://hora-tv.pages.dev/others.json'
+
+};
+
+const STREAMS_URL =
+  'https://hora-tv.pages.dev/streams.json';
+
+
+let allMatches = [];
+let existingStreams = {};
+
+
+/* --------------------------------
+   GENERATE MATCH ID
+-------------------------------- */
+
+function makeMatchId(team1, team2) {
+
+  return `${team1}-vs-${team2}`
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+
+}
+
+
+/* --------------------------------
+   LOAD DATA
+-------------------------------- */
+
+async function loadData() {
+
+  try {
+
+    const responses = await Promise.all([
+
+      fetch(API_URLS.cricket),
+      fetch(API_URLS.football),
+      fetch(API_URLS.other),
+
+      fetch(STREAMS_URL)
+
+    ]);
+
+
+    const cricket =
+      await responses[0].json();
+
+    const football =
+      await responses[1].json();
+
+    const other =
+      await responses[2].json();
+
+    existingStreams =
+      await responses[3].json();
+
+
+    allMatches = [
+
+      ...normaliseMatches(cricket, 'cricket'),
+
+      ...normaliseMatches(football, 'football'),
+
+      ...normaliseMatches(other, 'other')
+
+    ];
+
+
+    renderMatches();
+
+  }
+
+  catch (error) {
+
+    console.error(error);
+
+    document.getElementById(
+      'matchesContainer'
+    ).innerHTML = `
+
+      <div class="empty">
+        Failed to load match data.
+      </div>
+
+    `;
+
+  }
+
+}
+
+
+/* --------------------------------
+   NORMALISE DATA
+-------------------------------- */
+
+function normaliseMatches(data, sport) {
+
+  let matches = [];
+
+  if (Array.isArray(data)) {
+
+    matches = data;
+
+  }
+
+  else if (data && Array.isArray(data.matches)) {
+
+    matches = data.matches;
+
+  }
+
+  else if (data && typeof data === 'object') {
+
+    matches = [data];
+
+  }
+
+
+  return matches.map(match => ({
+
+    ...match,
+
+    sport: match.sport || sport,
+
+    matchId:
+      makeMatchId(
+        match.team1,
+        match.team2
+      )
+
+  }));
+
+}
+
+
+/* --------------------------------
+   RENDER MATCHES
+-------------------------------- */
+
+function renderMatches() {
+
+  const container =
+    document.getElementById(
+      'matchesContainer'
+    );
+
+
+  const search =
+    document.getElementById(
+      'searchBox'
+    ).value
+      .toLowerCase()
+      .trim();
+
+
+  let matches =
+    allMatches.filter(match => {
+
+      const text = `
+
+        ${match.team1}
+        ${match.team2}
+        ${match.league}
+        ${match.format}
+
+      `.toLowerCase();
+
+
+      return text.includes(search);
+
+    });
+
+
+  if (!matches.length) {
+
+    container.innerHTML = `
+
+      <div class="empty">
+        No matches found.
+      </div>
+
+    `;
+
+    return;
+
+  }
+
+
+  matches.sort((a, b) => {
+
+    return new Date(a.start_time)
+      - new Date(b.start_time);
+
+  });
+
+
+  let cricketHTML = '';
+  let footballHTML = '';
+  let otherHTML = '';
+
+
+  matches.forEach(match => {
+
+    const card = createMatchCard(match);
+
+
+    if (match.sport === 'cricket') {
+
+      cricketHTML += card;
+
+    }
+
+    else if (match.sport === 'football') {
+
+      footballHTML += card;
+
+    }
+
+    else {
+
+      otherHTML += card;
+
+    }
+
+  });
+
+
+  let html = '';
+
+
+  if (cricketHTML) {
+
+    html += `
+
+      <div class="section">
+
+        <div class="section-title">
+          <span>🏏</span>
+          <h2>Cricket</h2>
+        </div>
+
+        ${cricketHTML}
+
+      </div>
+
+    `;
+
+  }
+
+
+  if (footballHTML) {
+
+    html += `
+
+      <div class="section">
+
+        <div class="section-title">
+          <span>⚽</span>
+          <h2>Football</h2>
+        </div>
+
+        ${footballHTML}
+
+      </div>
+
+    `;
+
+  }
+
+
+  if (otherHTML) {
+
+    html += `
+
+      <div class="section">
+
+        <div class="section-title">
+          <span>🎯</span>
+          <h2>Other</h2>
+        </div>
+
+        ${otherHTML}
+
+      </div>
+
+    `;
+
+  }
+
+
+  container.innerHTML = html;
+
+}
+
+
+/* --------------------------------
+   MATCH CARD
+-------------------------------- */
+
+function createMatchCard(match) {
+
+  const hasStreams =
+    existingStreams[match.matchId] &&
+    existingStreams[match.matchId].length;
+
+
+  return `
+
+    <div class="match-card">
+
+      <div class="match-info">
+
+        <div class="team-logos">
+
+          <img
+            src="${match.team1_logo || ''}"
+            onerror="this.style.display='none'"
+          >
+
+          <img
+            src="${match.team2_logo || ''}"
+            onerror="this.style.display='none'"
+          >
+
+        </div>
+
+
+        <div>
+
+          <div class="teams">
+
+            ${escapeHTML(match.team1)}
+            vs
+            ${escapeHTML(match.team2)}
+
+          </div>
+
+
+          <div class="meta">
+
+            ${escapeHTML(match.league || '')}
+
+            •
+
+            ${formatDate(match.start_time)}
+
+            •
+
+            ${hasStreams
+              ? '🟢 Streams Added'
+              : '⚪ No Streams'}
+
+          </div>
+
+        </div>
+
+      </div>
+
+
+      <button
+        class="manage-btn"
+        onclick="manageStreams('${match.matchId}')"
+      >
+
+        MANAGE
+
+      </button>
+
+    </div>
+
+  `;
+
+}
+
+
+/* --------------------------------
+   SEARCH
+-------------------------------- */
+
+function filterMatches() {
+
+  renderMatches();
+
+}
+
+
+/* --------------------------------
+   MANAGE STREAMS
+-------------------------------- */
+
+function manageStreams(matchId) {
+
+  const match =
+    allMatches.find(
+      m => m.matchId === matchId
+    );
+
+
+  if (!match) return;
+
+
+  const streams =
+    existingStreams[matchId] || [];
+
+
+  let message =
+
+    match.team1 +
+    ' vs ' +
+    match.team2 +
+    '\\n\\n';
+
+
+  if (streams.length) {
+
+    streams.forEach((stream, index) => {
+
+      message +=
+
+        'Server ' +
+        (index + 1) +
+        ': ' +
+        stream.url +
+        '\\n';
+
+    });
+
+  }
+
+  else {
+
+    message +=
+      'No streams added yet.';
+
+  }
+
+
+  alert(message);
+
+}
+
+
+/* --------------------------------
+   DATE
+-------------------------------- */
+
+function formatDate(dateString) {
+
+  const date =
+    new Date(dateString);
+
+
+  if (isNaN(date)) {
+
+    return 'Date unavailable';
+
+  }
+
+
+  return date.toLocaleString(
+    'en-US',
+    {
+      day: '2-digit',
+      month: 'short',
+      hour: '2-digit',
+      minute: '2-digit'
+    }
+  );
+
+}
+
+
+/* --------------------------------
+   ESCAPE HTML
+-------------------------------- */
+
+function escapeHTML(value) {
+
+  return String(value || '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#039;');
+
+}
+
+
+/* --------------------------------
+   START
+-------------------------------- */
+
+loadData();
+
+</script>
+
+</body>
+</html>
