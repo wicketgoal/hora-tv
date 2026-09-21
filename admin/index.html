@@ -240,21 +240,12 @@ body {
 <script>
 
 const API_URLS = {
-
-  cricket:
-    'https://hora-tv.pages.dev/cricket.json',
-
-  football:
-    'https://hora-tv.pages.dev/football.json',
-
-  other:
-    'https://hora-tv.pages.dev/others.json'
-
+  cricket: '../cricket.json',
+  football: '../football.json',
+  other: '../others.json'
 };
 
-const STREAMS_URL =
-  'https://hora-tv.pages.dev/streams.json';
-
+const STREAMS_URL = '../streams.json';
 
 let allMatches = [];
 let existingStreams = {};
