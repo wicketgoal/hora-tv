@@ -1,7 +1,7 @@
 [
   {
   
-    "sport": "others",
+    "sport": "other",
     "league": "Women's Champions League",
     "format": "Group Stage",
     "team1": "Bayern",
@@ -14,7 +14,7 @@
   },
 
   {
-    "sport": "others",
+    "sport": "other",
     "league": "Women's Champions League",
     "format": "Group Stage",
     "team1": "Inter",
