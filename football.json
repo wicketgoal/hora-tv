@@ -1,7 +1,7 @@
 [
 
   {
-    "id": "football-008",
+
     "sport": "football",
     "league": "Premier League",
     "format": "Premier League",
@@ -12,11 +12,11 @@
     "venue": "American Express Stadium",
     "start_time": "2026-09-19T20:45:00+05:45",
     "duration": 120,
-    "watch_url": "/p/watch.html?id=football-008"
+
   },
 
   {
-    "id": "football-028",
+ 
     "sport": "football",
     "league": "Ligue 1",
     "format": "Ligue 1",
@@ -27,11 +27,11 @@
     "venue": "Stadium de Toulouse",
     "start_time": "2026-09-20T00:15:00+05:45",
     "duration": 120,
-    "watch_url": "/p/watch.html?id=football-028"
+
   },
 
   {
-    "id": "football-029",
+ 
     "sport": "football",
     "league": "Ligue 1",
     "format": "Ligue 1",
@@ -42,6 +42,6 @@
     "venue": "Stade Marie-Marvingt",
     "start_time": "2026-09-20T00:15:00+05:45",
     "duration": 120,
-    "watch_url": "/p/watch.html?id=football-029"
+  
   }
 ]
