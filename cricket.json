@@ -1,17 +1,17 @@
 [
   {
-    "id": "cricket-003",
-    "league": "Australia Tour of Zimbabwe 2026",
-    "format": "ODI",
-    "team1": "Zimbabwe",
-    "team1_logo": "https://flagcdn.com/w160/zw.png",
-    "team2": "Australia",
-    "team2_logo": "https://flagcdn.com/w160/au.png",
-    "venue": "Harare Sports Club, Harare",
-    "start_time": "2026-09-18T13:15:00+05:45",
+    "id": "jap",
+    "league": "India Tour of Japan",
+    "format": "T20I",
+    "team1": "Japan",
+    "team1_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/by4OltvtZz7taxuQtkiP3A_96x96.png",
+    "team2": "India",
+    "team2_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/mlXOOB9HXxLpoeS2dHSgGA_96x96.png",
+    "venue": "Sano International Cricket Ground",
+    "start_time": "2026-09-22T13:09:45+05:45",
     "status": "upcoming",
-    "duration": 480,
-    "watch_url": "/p/watch.html?id=cricket-003"
+    "duration": "240,
+    "watch_url": "/p/watch.html?id=jap"
   },
   {
     "id": "cricket-004",
