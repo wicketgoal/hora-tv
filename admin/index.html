@@ -680,16 +680,14 @@ async function loadData() {
   try {
 
     const files = [
-
-      ['cricket', '../cricket.json'],
-
-      ['football', '../football.json'],
-
-      ['other', '../others.json'],
-
-      ['streams', '../streams.json']
-
-    ];
+  ['cricket', '../cricket.json'],
+  ['football', '../football.json'],
+  ['other', '../others.json'],
+  [
+    'streams',
+    'https://hora-tv-stream-api.dailylivescoress.workers.dev/streams?t=' + Date.now()
+  ]
+];
 
 
     const data = {};
