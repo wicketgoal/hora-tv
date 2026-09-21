@@ -645,7 +645,8 @@ const API_URLS = {
 };
 
 
-const STREAMS_URL = '../streams.json';
+const STREAMS_URL =
+  'https://hora-tv-stream-api.dailylivescoress.workers.dev/streams';
 
 
 let allMatches = [];
@@ -1503,72 +1504,127 @@ function renumberServers() {
    SAVE STREAMS
 ================================ */
 
-function saveStreams(matchId) {
+async function saveStreams(matchId) {
 
   const servers = [];
 
-
   document
-    .querySelectorAll(
-      '#serverList .server-item'
-    )
+    .querySelectorAll('#serverList .server-item')
     .forEach(server => {
 
       const nameInput =
-        server.querySelector(
-          '.server-name'
-        );
-
+        server.querySelector('.server-name');
 
       const urlInput =
-        server.querySelector(
-          '.server-url'
-        );
-
+        server.querySelector('.server-url');
 
       const name =
         nameInput.value.trim();
 
-
       const url =
         urlInput.value.trim();
-
 
       if (url) {
 
         servers.push({
-
           name:
             name ||
             'Server ' +
             (servers.length + 1),
 
           url: url
-
         });
 
       }
-
     });
 
 
-  existingStreams[matchId] =
-    servers;
+  // Save the streams in browser memory first
+  existingStreams[matchId] = servers;
 
 
-  closeStreamModal();
+  // Ask for Admin Key
+  const adminKey =
+    prompt('Enter HORA TV Admin Key:');
 
 
-  renderMatches();
+  if (!adminKey) {
+
+    alert('Save cancelled.');
+
+    return;
+  }
 
 
-  alert(
-    servers.length +
-    ' server(s) added for this match.'
-  );
+  try {
 
+    const response =
+      await fetch(
+        STREAMS_URL,
+        {
+          method: 'PUT',
+
+          headers: {
+            'Content-Type':
+              'application/json',
+
+            'X-Admin-Key':
+              adminKey
+          },
+
+          body:
+            JSON.stringify(
+              existingStreams
+            )
+        }
+      );
+
+
+    const result =
+      await response.json();
+
+
+    if (!response.ok) {
+
+      console.error(
+        'Save error:',
+        result
+      );
+
+      alert(
+        'Save failed: ' +
+        (
+          result.error ||
+          'Unknown error'
+        )
+      );
+
+      return;
+    }
+
+
+    closeStreamModal();
+
+    renderMatches();
+
+
+    alert(
+      'Streams saved successfully!'
+    );
+
+
+  } catch (error) {
+
+    console.error(
+      'Worker error:',
+      error
+    );
+
+    alert(
+      'Could not connect to Stream API.'
+    );
+  }
 }
-
 
 /* ================================
    CLOSE MODAL
