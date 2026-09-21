@@ -1,1 +1,8 @@
-{}
+{
+  "japan-vs-india": [
+    {
+      "name": "Server 1",
+      "url": "https://playztv-apps.pages.dev/willow-tv/index.m3u8"
+    }
+  ]
+}
