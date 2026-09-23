@@ -51,16 +51,16 @@
   ],
   "japan-vs-afghanistan": [
     {
-      "name": "Ten 1",
-      "url": "https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8"
-    },
-    {
       "name": "Ten 1 HD",
       "url": "https://wicket-goal.pages.dev/htstar/"
     },
     {
-      "name": "Hindi",
-      "url": "https://suniliv.pages.dev/ptest1?id=sony-ten-3-hd"
+      "name": "Ten 1 SD",
+      "url": "https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8"
+    },
+    {
+      "name": "Hindi HD",
+      "url": "https://wicket-goal.pages.dev/ten3/"
     }
   ],
   "philippines-u23-vs-kuwait-u23": [
