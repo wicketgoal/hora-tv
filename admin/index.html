@@ -876,64 +876,24 @@ function renderMatches() {
 
 
   let matches =
-  allMatches.filter(match => {
+    allMatches.filter(match => {
 
-    /* ================================
-       REMOVE MATCHES 12 HOURS
-       AFTER COMPLETION
-    ================================= */
+      const text = `
 
-    const startTime =
-      new Date(match.start_time).getTime();
+        ${match.team1}
 
-    const duration =
-      Number(match.duration || 120);
+        ${match.team2}
 
-    const endTime =
-      startTime +
-      duration * 60 * 1000;
+        ${match.league}
 
-    const removeAfter =
-      endTime +
-      12 * 60 * 60 * 1000;
+        ${match.format}
 
-    const now =
-      Date.now();
+      `.toLowerCase();
 
 
-    /* Ignore matches that are more than
-       12 hours past their completion */
+      return text.includes(search);
 
-    if (
-      !isNaN(startTime) &&
-      now >= removeAfter
-    ) {
-
-      return false;
-
-    }
-
-
-    /* ================================
-       SEARCH
-    ================================= */
-
-    const text = `
-
-      ${match.team1}
-
-      ${match.team2}
-
-      ${match.league}
-
-      ${match.format}
-
-    `.toLowerCase();
-
-
-    return text.includes(search);
-
-  });
+    });
 
 
   if (!matches.length) {
@@ -1788,4 +1748,3 @@ loadData();
 
 </body>
 </html>
-
