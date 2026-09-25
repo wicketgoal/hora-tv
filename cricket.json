@@ -2,30 +2,16 @@
   {
     "league": "South Asian Games - Cricket",
     "format": "T20I",
-    "team1": "Hong Kong",
-    "team1_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/clVmlDCDO7GWBc-a97NfZQ_96x96.png",
+    "team1": "Malaysia",
+    "team1_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/cJH9pZPURSZ68UjxxS4nKw_96x96.png",
     "team2": "Oman",
     "team2_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/tr94i28azTadAjK9PBYFGA_96x96.png",
     "venue": "Sano International Cricket Ground",
-    "start_time": "2026-09-25T05:45:45+05:45",
+    "start_time": "2026-09-26T10:45:45+05:45",
     "status": "upcoming",
     "duration": 240
   },
   
-  {
- 
-    "league": "South Asian Games - Women's Cricket",
-    "format": "T20",
-    "team1": "India W",
-    "team1_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/mlXOOB9HXxLpoeS2dHSgGA_96x96.png",
-    "team2": "Sri Lanka W",
-    "team2_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/OC5jEMcI70iVSVE7HL12ww_96x96.png",
-    "venue": "Korogi Sports Park",
-    "start_time": "2026-09-22T10:45:00+05:45",
-    "status": "upcoming",
-    "duration": 210
-
-  },
   {
    
     "league": "Sri Lanka Tour of England",
@@ -35,7 +21,7 @@
     "team2": "Sri Lanka",
     "team2_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/OC5jEMcI70iVSVE7HL12ww_96x96.png",
     "venue": "Riverside Ground",
-    "start_time": "2026-09-22T17:15:00+05:45",
+    "start_time": "2026-09-27T17:15:00+05:45",
     "status": "upcoming",
     "duration": 450
   },
@@ -46,24 +32,10 @@
     "format": "T20I",
     "team1": "Japan",
     "team1_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/by4OltvtZz7taxuQtkiP3A_96x96.png",
-    "team2": "Afghanistan",
-    "team2_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/8rwaXVaUKfdJq31QgGtQrw_96x96.png",
+    "team2": "Nepal",
+    "team2_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/FLrQ4VpsM5eSQHSadNA0SQ_96x96.png",
     "venue": "Korogi Sports Park",
-    "start_time": "2026-09-24T05:45:15+05:45",
-    "status": "upcoming",
-    "duration": 240
-  },
-
-  {
- 
-    "league": "South Asian Games Cricket",
-    "format": "T20I",
-    "team1": "Hong Kong",
-    "team1_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/clVmlDCDO7GWBc-a97NfZQ_96x96.png",
-    "team2": "Malaysia",
-    "team2_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/cJH9pZPURSZ68UjxxS4nKw_96x96.png",
-    "venue": "Korogi Sports Park",
-    "start_time": "2026-09-24T10:45:15+05:45",
+    "start_time": "2026-09-26T05:45:15+05:45",
     "status": "upcoming",
     "duration": 240
   },
@@ -77,37 +49,12 @@
     "team2": "Australia",
     "team2_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/QYCU22ymggIHGp6LW4EQVg_96x96.png",
     "venue": "Durban",
-    "start_time": "2026-09-24T13:45:15+05:45",
+    "start_time": "2026-09-27T13:45:15+05:45",
     "status": "upcoming",
     "duration": 480
-  },
-
-  {
-   
-    "league": "Sri Lanka Tour of England",
-    "format": "ODI",
-    "team1": "England",
-    "team1_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
-    "team2": "Sri Lanka",
-    "team2_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/OC5jEMcI70iVSVE7HL12ww_96x96.png",
-    "venue": "Riverside Ground",
-    "start_time": "2026-09-24T17:15:00+05:45",
-    "status": "upcoming",
-    "duration": 450
-  },
-  
-  {
- 
-    "league": "South Asian Games Cricket",
-    "format": "T20I",
-    "team1": "Nepal",
-    "team1_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/FLrQ4VpsM5eSQHSadNA0SQ_96x96.png",
-    "team2": "Afghanistan",
-    "team2_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/8rwaXVaUKfdJq31QgGtQrw_96x96.png",
-    "venue": "Korogi Sports Park",
-    "start_time": "2026-09-25T10:45:15+05:45",
-    "status": "upcoming",
-    "duration": 240
   }
+
+  
+
   
 ]
