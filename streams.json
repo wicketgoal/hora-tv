@@ -122,10 +122,14 @@
   "australia-vs-brazil": [
     {
       "name": "Server 1",
-      "url": "https://w6.sportsonliine.click/channels/hd/hd6.php"
+      "url": "https://w6.sportsonliine.click/channels/bra/br1.php"
     },
     {
       "name": "Server 2",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd6.php"
+    },
+    {
+      "name": "Server 3",
       "url": "https://w6.sportsonliine.click/channels/bra/br1.php"
     }
   ],
