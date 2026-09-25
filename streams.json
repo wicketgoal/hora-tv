@@ -148,5 +148,23 @@
       "name": "Server 3",
       "url": "https://w6.sportsonliine.click/channels/bra/br3.php"
     }
+  ],
+  "italy-vs-belgium": [
+    {
+      "name": "Server 1",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd2.php"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd3.php"
+    },
+    {
+      "name": "Server 3",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd7.php"
+    },
+    {
+      "name": "Server 4",
+      "url": "https://w6.sportsonliine.click/channels/pt/sporttv2.php"
+    }
   ]
 }
