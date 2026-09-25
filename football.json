@@ -8,7 +8,7 @@
     "team2": "Northern Ireland",
     "team2_logo": "https://flagcdn.com/w80/gb-nir.png",
     "venue": "Boris Paichadze Dinamo Arena",
-    "start_time": "2026-09-25T22:45:00+05:45",
+    "start_time": "2026-09-25T21:45:00+05:45",
     "duration": 120
   },
   {
@@ -20,7 +20,7 @@
     "team2": "Latvia",
     "team2_logo": "https://flagcdn.com/w80/lv.png",
     "venue": "Vazgen Sargsyan Republican Stadium",
-    "start_time": "2026-09-25T22:45:00+05:45",
+    "start_time": "2026-09-25T21:45:00+05:45",
     "duration": 120
   },
   {
@@ -32,19 +32,19 @@
     "team2": "Belgium",
     "team2_logo": "https://flagcdn.com/w80/be.png",
     "venue": "Stadio Olimpico",
-    "start_time": "2026-09-26T01:30:00+05:45",
+    "start_time": "2026-09-26T00:30:00+05:45",
     "duration": 120
   },
   {
     "sport": "football",
     "league": "UEFA Nations League",
     "format": "League A",
-    "team1": "Türkiye",
+    "team1": "Turkey",
     "team1_logo": "https://flagcdn.com/w80/tr.png",
     "team2": "France",
     "team2_logo": "https://flagcdn.com/w80/fr.png",
     "venue": "Tüpraş Stadyumu",
-    "start_time": "2026-09-26T01:30:00+05:45",
+    "start_time": "2026-09-26T00:30:00+05:45",
     "duration": 120
   },
   {
@@ -56,7 +56,7 @@
     "team2": "Ukraine",
     "team2_logo": "https://flagcdn.com/w80/ua.png",
     "venue": "Puskás Aréna",
-    "start_time": "2026-09-26T01:30:00+05:45",
+    "start_time": "2026-09-26T00:30:00+05:45",
     "duration": 120
   },
   {
@@ -65,10 +65,10 @@
     "format": "League B",
     "team1": "Poland",
     "team1_logo": "https://flagcdn.com/w80/pl.png",
-    "team2": "Bosnia and Herzegovina",
+    "team2": "Bosnia & Herzegovina",
     "team2_logo": "https://flagcdn.com/w80/ba.png",
     "venue": "PGE Narodowy",
-    "start_time": "2026-09-26T01:30:00+05:45",
+    "start_time": "2026-09-26T00:30:00+05:45",
     "duration": 120
   },
   {
@@ -80,7 +80,7 @@
     "team2": "Romania",
     "team2_logo": "https://flagcdn.com/w80/ro.png",
     "venue": "Strawberry Arena",
-    "start_time": "2026-09-26T01:30:00+05:45",
+    "start_time": "2026-09-26T00:30:00+05:45",
     "duration": 120
   },
   {
@@ -92,10 +92,69 @@
     "team2": "Cyprus",
     "team2_logo": "https://flagcdn.com/w80/cy.png",
     "venue": "Stadion Pod Goricom",
-    "start_time": "2026-09-26T01:30:00+05:45",
+    "start_time": "2026-09-26T00:30:00+05:45",
     "duration": 120
   },
-
+  {
+    "sport": "football",
+    "league": "UEFA Nations League",
+    "format": "League B",
+    "team1": "Slovenia",
+    "team1_logo": "https://flagcdn.com/w80/si.png",
+    "team2": "Scotland",
+    "team2_logo": "https://flagcdn.com/w80/gb-sct.png",
+    "venue": "Stadion Stožice",
+    "start_time": "2026-09-26T18:45:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "UEFA Nations League",
+    "format": "League C",
+    "team1": "Bulgaria",
+    "team1_logo": "https://flagcdn.com/w80/bg.png",
+    "team2": "Luxembourg",
+    "team2_logo": "https://flagcdn.com/w80/lu.png",
+    "venue": "Vasil Levski National Stadium",
+    "start_time": "2026-09-26T21:45:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "UEFA Nations League",
+    "format": "League C",
+    "team1": "Faroe Islands",
+    "team1_logo": "https://flagcdn.com/w80/fo.png",
+    "team2": "Kazakhstan",
+    "team2_logo": "https://flagcdn.com/w80/kz.png",
+    "venue": "Tórsvøllur",
+    "start_time": "2026-09-26T21:45:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "UEFA Nations League",
+    "format": "League C",
+    "team1": "Iceland",
+    "team1_logo": "https://flagcdn.com/w80/is.png",
+    "team2": "Estonia",
+    "team2_logo": "https://flagcdn.com/w80/ee.png",
+    "venue": "Laugardalsvöllur",
+    "start_time": "2026-09-26T21:45:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "UEFA Nations League",
+    "format": "League C",
+    "team1": "San Marino",
+    "team1_logo": "https://flagcdn.com/w80/sm.png",
+    "team2": "Finland",
+    "team2_logo": "https://flagcdn.com/w80/fi.png",
+    "venue": "San Marino Stadium",
+    "start_time": "2026-09-26T21:45:00+05:45",
+    "duration": 120
+  },
   {
     "sport": "football",
     "league": "International Friendly",
