@@ -31,20 +31,20 @@
   ],
   "nepal-vs-afghanistan": [
     {
-      "name": "Ten 1 SD",
-      "url": "https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8"
+      "name": "Server 1",
+      "url": "https://wicket-goal.pages.dev/mpd/?id=1"
     },
     {
       "name": "Willow HD",
       "url": "https://embed.st/embed/admin/admin-willow-cricket/1"
     },
     {
-      "name": "Hindi HD",
-      "url": "https://wicket-goal.pages.dev/ten3/"
+      "name": "Sony",
+      "url": "https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8"
     },
     {
       "name": "Ten 1 HD",
-      "url": "https://wicket-goal.pages.dev/htstar/"
+      "url": "https://wicket-goal.pages.dev/mpd/?id=1"
     }
   ],
   "hong-kong-vs-malaysia": [
