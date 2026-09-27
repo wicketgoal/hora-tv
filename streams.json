@@ -273,8 +273,8 @@
   ],
   "india-vs-west-indies": [
     {
-      "name": "Tapmad",
-      "url": "https://allrounder-live12.pages.dev/hotstar"
+      "name": "Willow HD",
+      "url": "https://wicket-goal.pages.dev/mpd/?id=2"
     },
     {
       "name": "Hindi",
@@ -283,6 +283,10 @@
     {
       "name": "TNT HD",
       "url": "https://wicket-goal.pages.dev/mpd/?id=1"
+    },
+    {
+      "name": "For IOS",
+      "url": "https://allrounder-live12.pages.dev/hotstar"
     }
   ]
 }
