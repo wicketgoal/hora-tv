@@ -270,5 +270,11 @@
       "name": "Server 2",
       "url": "/?src=https://juxrd.hundxvision.co.uk/main/secure/13bc1656b50257b21a3176949a781775f5db24137009b7ba8710ced483b70ae7/1790356843/sonysportsnetwork-in.m3u8"
     }
+  ],
+  "india-vs-west-indies": [
+    {
+      "name": "Fox HD",
+      "url": "https://twitcasting.tv/c:helios0/embeddedplayer/live"
+    }
   ]
 }
