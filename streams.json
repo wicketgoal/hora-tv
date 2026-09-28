@@ -346,5 +346,11 @@
       "name": "Server 1",
       "url": "https://allinonereborn2.online/events/player1.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2120305%2Funl_geor2809%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1790654797~acl%3D%2F*~id%3D57564049192685751939459305160845~hmac%3D4149ad95a2aa6255d10cbdb7e9eadd3fa0e10a798c94fb5b68eacb206c9bd93b"
     }
+  ],
+  "latvia-vs-cyprus": [
+    {
+      "name": "Server 1",
+      "url": "https://allinonereborn2.online/events/player1.html?url=https%3A%2F%2Fmini.allinonereborn.site%2Fevents%2Fstream_proxy.php%3Furl%3Dhttps%3A%2F%2Fsonydaimenew.akamaized.net%2Fhls%2Flive%2F2120304%2Funl_latv2809%2FENG%2Fstd_lrh-800300010.m3u8%3Fhdnea%3Dexp%3D1790654797~acl%3D%2F*~id%3D57564049192685751939459305160845~hmac%3D4149ad95a2aa6255d10cbdb7e9eadd3fa0e10a798c94fb5b68eacb206c9bd93b"
+    }
   ]
 }
