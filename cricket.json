@@ -5,10 +5,10 @@
     "format": "T20I",
     "team1": "Pakistan",
     "team1_logo": "https://flagcdn.com/w80/pk.png",
-    "team2": "Hong Kong",
-    "team2_logo": "https://flagcdn.com/w80/hk.png",
+    "team2": "Bangladesh",
+    "team2_logo": "https://flagcdn.com/w80/bd.png",
     "venue": "Korogi Sports Park, Nisshin",
-    "start_time": "2026-09-28T05:45:00+05:45",
+    "start_time": "2026-10-01T05:45:00+05:45",
     "duration": 240
   },
   {
@@ -17,10 +17,10 @@
     "format": "T20I",
     "team1": "India",
     "team1_logo": "https://flagcdn.com/w80/in.png",
-    "team2": "Afghanistan",
-    "team2_logo": "https://flagcdn.com/w80/af.png",
+    "team2": "Sri Lanka",
+    "team2_logo": "https://flagcdn.com/w80/sl.png",
     "venue": "Korogi Sports Park, Nisshin",
-    "start_time": "2026-09-28T10:15:00+05:45",
+    "start_time": "2026-10-01T10:45:00+05:45",
     "duration": 240
   },
   {
