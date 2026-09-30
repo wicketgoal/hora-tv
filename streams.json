@@ -428,5 +428,23 @@
       "name": "Server 3",
       "url": "https://wicket-goal.pages.dev/mpd/?id=1"
     }
+  ],
+  "india-vs-sri-lanka": [
+    {
+      "name": "Server 1",
+      "url": "https://wicket-goal.pages.dev/htstar/"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://webcric.im/frame2.htm"
+    },
+    {
+      "name": "Server 3",
+      "url": "https://wicket-goal.pages.dev/mpd/?id=1"
+    },
+    {
+      "name": "Server 4",
+      "url": "https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8"
+    }
   ]
 }
