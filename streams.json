@@ -446,5 +446,11 @@
       "name": "Server 4",
       "url": "https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8"
     }
+  ],
+  "kazakhstan-vs-moldova": [
+    {
+      "name": "Server 1",
+      "url": "https://wicket-goal.pages.dev/football/football1/"
+    }
   ]
 }
