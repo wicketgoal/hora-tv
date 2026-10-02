@@ -540,5 +540,15 @@
       "name": "Server 1",
       "url": "https://w6.sportsonliine.click/channels/pt/sporttv5.php"
     }
+  ],
+  "poland-vs-romania": [
+    {
+      "name": "Server 1",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd9.php"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://w6.sportsonliine.click/channels/pt/sporttv4.php"
+    }
   ]
 }
