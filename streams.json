@@ -460,5 +460,15 @@
       "name": "Server 3",
       "url": "https://w6.sportsonliine.click/channels/pt/sporttv2.php"
     }
+  ],
+  "bangladesh-vs-sri-lanka": [
+    {
+      "name": "Server 1",
+      "url": "https://wicket-goal.pages.dev/htstar/"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://webcric.im/frame2.htm"
+    }
   ]
 }
