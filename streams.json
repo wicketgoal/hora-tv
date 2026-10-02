@@ -470,5 +470,15 @@
       "name": "Server 2",
       "url": "https://webcric.im/frame2.htm"
     }
+  ],
+  "cyprus-vs-armenia": [
+    {
+      "name": "Server 1",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd3.php"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://w6.sportsonliine.click/channels/pt/sporttv3.php"
+    }
   ]
 }
