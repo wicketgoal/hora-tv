@@ -480,5 +480,15 @@
       "name": "Server 2",
       "url": "https://w6.sportsonliine.click/channels/pt/sporttv3.php"
     }
+  ],
+  "latvia-vs-montenegro": [
+    {
+      "name": "Server 1",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd11.php"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://w6.sportsonliine.click/channels/pt/sporttv2.php"
+    }
   ]
 }
