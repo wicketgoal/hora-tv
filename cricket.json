@@ -35,18 +35,7 @@
     "start_time": "2026-10-03T14:15:00+05:45",
     "duration": 480
   },
-  {
-    "sport": "cricket",
-    "league": "Indonesia tour of South Korea 2026",
-    "format": "T20I",
-    "team1": "South Korea",
-    "team1_logo": "https://flagcdn.com/w80/kr.png",
-    "team2": "Indonesia",
-    "team2_logo": "https://flagcdn.com/w80/id.png",
-    "venue": "Yeonhui Cricket Ground, Incheon",
-    "start_time": "2026-10-03T06:45:00+05:45",
-    "duration": 140
-  },
+  
   {
     "sport": "cricket",
     "league": "ICC Cricket World Cup League 2",
