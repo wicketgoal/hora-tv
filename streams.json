@@ -564,11 +564,15 @@
     },
     {
       "name": "Server 2",
-      "url": "https://webcric.im/frame1.htm"
+      "url": "https://embedindia.st/embed/247-willow"
     },
     {
       "name": "Server 3",
       "url": "https://wicket-goal.pages.dev/htstar/"
+    },
+    {
+      "name": "Server 4",
+      "url": "https://webcric.im/frame1.htm"
     }
   ]
 }
