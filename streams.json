@@ -574,5 +574,19 @@
       "name": "Server 4",
       "url": "https://webcric.im/frame1.htm"
     }
+  ],
+  "india-vs-brazil": [
+    {
+      "name": "English",
+      "url": "https://wicket-goal.pages.dev/football/football2/"
+    },
+    {
+      "name": "Hindi",
+      "url": "https://wicket-goal.pages.dev/football/football3/"
+    },
+    {
+      "name": "Tamil",
+      "url": "https://wicket-goal.pages.dev/football/football4"
+    }
   ]
 }
