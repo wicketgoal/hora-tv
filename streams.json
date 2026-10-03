@@ -556,5 +556,19 @@
       "name": "Server 1",
       "url": "https://w6.sportsonliine.click/channels/hd/hd10.php"
     }
+  ],
+  "pakistan-vs-india": [
+    {
+      "name": "Server 1",
+      "url": "https://1freecdn.xyz/hembedplayer/csstream6/1/960/540"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://webcric.im/frame1.htm"
+    },
+    {
+      "name": "Server 3",
+      "url": "https://wicket-goal.pages.dev/htstar/"
+    }
   ]
 }
