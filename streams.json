@@ -696,5 +696,15 @@
       "name": "Server 3",
       "url": "https://w6.sportsonliine.click/channels/bra/br1.php"
     }
+  ],
+  "malta-vs-andorra": [
+    {
+      "name": "Server 1",
+      "url": "https://w6.sportsonliine.click/channels/pt/sporttv4.php"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://w6.sportsonliine.click/channels/bra/br1.php"
+    }
   ]
 }
