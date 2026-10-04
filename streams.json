@@ -726,5 +726,19 @@
       "name": "Server 1",
       "url": "https://w6.sportsonliine.click/channels/hd/hd5.php"
     }
+  ],
+  "greece-vs-germany": [
+    {
+      "name": "Server 1",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd3.php"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd8.php"
+    },
+    {
+      "name": "Server 3",
+      "url": "https://w6.sportsonliine.click/channels/pt/sporttv2.php"
+    }
   ]
 }
