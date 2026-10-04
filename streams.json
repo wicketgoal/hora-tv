@@ -754,5 +754,19 @@
       "name": "Server 3",
       "url": "https://w6.sportsonliine.click/channels/bra/br2.php"
     }
+  ],
+  "portugal-vs-norway": [
+    {
+      "name": "Server 1",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd1.php"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://w6.sportsonliine.click/channels/pt/sporttv1.php"
+    },
+    {
+      "name": "Server 3",
+      "url": "https://w6.sportsonliine.click/channels/bra/br1.php"
+    }
   ]
 }
