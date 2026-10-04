@@ -768,5 +768,15 @@
       "name": "Server 3",
       "url": "https://w6.sportsonliine.click/channels/bra/br1.php"
     }
+  ],
+  "wales-vs-denmark": [
+    {
+      "name": "Server 1",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd2.php"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://w6.sportsonliine.click/channels/pt/sporttv3.php"
+    }
   ]
 }
