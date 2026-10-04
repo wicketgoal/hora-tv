@@ -740,5 +740,19 @@
       "name": "Server 3",
       "url": "https://w6.sportsonliine.click/channels/pt/sporttv2.php"
     }
+  ],
+  "netherlands-vs-serbia": [
+    {
+      "name": "Server 1",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd4.php"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://w6.sportsonliine.click/channels/pt/sporttv4.php"
+    },
+    {
+      "name": "Server 3",
+      "url": "https://w6.sportsonliine.click/channels/bra/br2.php"
+    }
   ]
 }
