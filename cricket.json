@@ -11,18 +11,7 @@
     "start_time": "2026-10-04T06:45:00+05:45",
     "duration": 240
   },
-  {
-    "sport": "cricket",
-    "league": "Indonesia tour of South Korea 2026",
-    "format": "T20I",
-    "team1": "South Korea",
-    "team1_logo": "https://flagcdn.com/w80/kr.png",
-    "team2": "Indonesia",
-    "team2_logo": "https://flagcdn.com/w80/id.png",
-    "venue": "Yeonhui Cricket Ground, Incheon",
-    "start_time": "2026-10-05T06:45:00+05:45",
-    "duration": 240
-  },
+  
   {
     "sport": "cricket",
     "league": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A 2026",
@@ -47,18 +36,7 @@
     "start_time": "2026-10-05T07:00:00+05:45",
     "duration": 240
   },
-  {
-    "sport": "cricket",
-    "league": "Indonesia tour of South Korea 2026",
-    "format": "T20I",
-    "team1": "South Korea",
-    "team1_logo": "https://flagcdn.com/w80/kr.png",
-    "team2": "Indonesia",
-    "team2_logo": "https://flagcdn.com/w80/id.png",
-    "venue": "Yeonhui Cricket Ground, Incheon",
-    "start_time": "2026-10-05T10:45:00+05:45",
-    "duration": 240
-  },
+  
   {
     "sport": "cricket",
     "league": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A 2026",
