@@ -850,5 +850,27 @@
       "name": "Server 3",
       "url": "https://w6.sportsonliine.click/channels/bra/br2.php"
     }
+  ],
+  "india-vs-uruguay": [
+    {
+      "name": "Server 1",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd5.php"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://wicket-goal.pages.dev/football/football2"
+    },
+    {
+      "name": "Server 3",
+      "url": "https://wicket-goal.pages.dev/football/football3"
+    },
+    {
+      "name": "Server 4",
+      "url": "https://wicket-goal.pages.dev/football/football4/"
+    },
+    {
+      "name": "Server 5",
+      "url": "https://w6.sportsonliine.click/channels/pt/sporttv1.php"
+    }
   ]
 }
