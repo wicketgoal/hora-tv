@@ -60,6 +60,129 @@
     "venue": "London Stadium",
     "start_time": "2026-10-10T00:45:00+05:45",
     "duration": 120
+  },
+
+  [
+  {
+    "sport": "football",
+    "league": "Premier League",
+    "format": "Premier League",
+    "team1": "Arsenal",
+    "team1_logo": "https://assets.footylogos.com/logos/arsenal/arsenal-logo-footylogos.svg",
+    "team2": "Leeds United",
+    "team2_logo": "https://assets.footylogos.com/logos/leeds-united/leeds-united-logo-footylogos.svg",
+    "venue": "Emirates Stadium",
+    "start_time": "2026-10-10T18:15:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Premier League",
+    "format": "Premier League",
+    "team1": "Aston Villa",
+    "team1_logo": "https://assets.footylogos.com/logos/aston-villa/aston-villa-logo-footylogos.svg",
+    "team2": "Brentford",
+    "team2_logo": "https://assets.footylogos.com/logos/brentford/brentford-logo-footylogos.svg",
+    "venue": "Villa Park",
+    "start_time": "2026-10-10T20:45:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Premier League",
+    "format": "Premier League",
+    "team1": "Chelsea",
+    "team1_logo": "https://assets.footylogos.com/logos/chelsea/chelsea-logo-footylogos.svg",
+    "team2": "AFC Bournemouth",
+    "team2_logo": "https://assets.footylogos.com/logos/afc-bournemouth/afc-bournemouth-logo-footylogos.svg",
+    "venue": "Stamford Bridge",
+    "start_time": "2026-10-10T20:45:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Premier League",
+    "format": "Premier League",
+    "team1": "Ipswich Town",
+    "team1_logo": "https://assets.footylogos.com/logos/ipswich-town/ipswich-town-logo-footylogos.svg",
+    "team2": "Fulham",
+    "team2_logo": "https://assets.footylogos.com/logos/fulham/fulham-logo-footylogos.svg",
+    "venue": "Portman Road",
+    "start_time": "2026-10-10T20:45:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Premier League",
+    "format": "Premier League",
+    "team1": "Sunderland",
+    "team1_logo": "https://assets.footylogos.com/logos/sunderland/sunderland-logo-footylogos.svg",
+    "team2": "Brighton & Hove Albion",
+    "team2_logo": "https://assets.footylogos.com/logos/brighton-and-hove-albion/brighton-and-hove-albion-logo-footylogos.svg",
+    "venue": "Stadium of Light",
+    "start_time": "2026-10-10T20:45:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Premier League",
+    "format": "Premier League",
+    "team1": "Manchester United",
+    "team1_logo": "https://assets.footylogos.com/logos/manchester-united/manchester-united-logo-footylogos.svg",
+    "team2": "Tottenham Hotspur",
+    "team2_logo": "https://assets.footylogos.com/logos/tottenham-hotspur/tottenham-hotspur-logo-footylogos.svg",
+    "venue": "Old Trafford",
+    "start_time": "2026-10-10T23:15:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Premier League",
+    "format": "Premier League",
+    "team1": "Crystal Palace",
+    "team1_logo": "https://assets.footylogos.com/logos/crystal-palace/crystal-palace-logo-footylogos.svg",
+    "team2": "Nottingham Forest",
+    "team2_logo": "https://assets.footylogos.com/logos/nottingham-forest/nottingham-forest-logo-footylogos.png",
+    "venue": "Selhurst Park",
+    "start_time": "2026-10-11T19:45:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Premier League",
+    "format": "Premier League",
+    "team1": "Hull City",
+    "team1_logo": "https://assets.footylogos.com/logos/hull-city/hull-city-logo-footylogos.svg",
+    "team2": "Everton",
+    "team2_logo": "https://assets.footylogos.com/logos/everton/everton-logo-footylogos.svg",
+    "venue": "MKM Stadium",
+    "start_time": "2026-10-11T19:45:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Premier League",
+    "format": "Premier League",
+    "team1": "Liverpool",
+    "team1_logo": "https://assets.footylogos.com/logos/liverpool-fc/liverpool-fc-logo-footylogos.svg",
+    "team2": "Manchester City",
+    "team2_logo": "https://assets.footylogos.com/logos/manchester-city/manchester-city-logo-footylogos.svg",
+    "venue": "Anfield",
+    "start_time": "2026-10-11T22:15:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Premier League",
+    "format": "Premier League",
+    "team1": "Coventry City",
+    "team1_logo": "https://assets.footylogos.com/logos/coventry-city/coventry-city-logo-footylogos.svg",
+    "team2": "Newcastle United",
+    "team2_logo": "https://assets.footylogos.com/logos/newcastle-united/newcastle-united-logo-2026-footylogos.svg",
+    "venue": "Coventry Building Society Arena",
+    "start_time": "2026-10-12T01:45:00+05:45",
+    "duration": 120
   }
+]
 ]
 
