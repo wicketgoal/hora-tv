@@ -182,6 +182,115 @@
     "venue": "Coventry Building Society Arena",
     "start_time": "2026-10-12T01:45:00+05:45",
     "duration": 120
+  },
+
+   {
+    "sport": "football",
+    "league": "La Liga",
+    "format": "La Liga",
+    "team1": "Rayo Vallecano",
+    "team1_logo": "https://assets.footylogos.com/logos/rayo-vallecano/rayo-vallecano-logo-footylogos.svg",
+    "team2": "Athletic Club",
+    "team2_logo": "https://assets.footylogos.com/logos/athletic-bilbao/athletic-bilbao-logo-footylogos.svg",
+    "venue": "Estadio de Vallecas",
+    "start_time": "2026-10-10T17:45:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "La Liga",
+    "format": "La Liga",
+    "team1": "Deportivo Alavés",
+    "team1_logo": "https://assets.footylogos.com/logos/deportivo-alaves/deportivo-alaves-logo-footylogos.svg",
+    "team2": "Atlético Madrid",
+    "team2_logo": "https://assets.footylogos.com/logos/atletico-madrid/atletico-madrid-logo-footylogos.svg",
+    "venue": "Estadio de Mendizorroza",
+    "start_time": "2026-10-10T19:00:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "La Liga",
+    "format": "La Liga",
+    "team1": "Barcelona",
+    "team1_logo": "https://assets.footylogos.com/logos/barcelona/barcelona-logo-footylogos.svg",
+    "team2": "Getafe",
+    "team2_logo": "https://assets.footylogos.com/logos/getafe/getafe-logo-footylogos.svg",
+    "venue": "Spotify Camp Nou",
+    "start_time": "2026-10-10T21:15:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "La Liga",
+    "format": "La Liga",
+    "team1": "Real Madrid",
+    "team1_logo": "https://assets.footylogos.com/logos/real-madrid/real-madrid-logo-footylogos.svg",
+    "team2": "Villarreal",
+    "team2_logo": "https://assets.footylogos.com/logos/villarreal/villarreal-logo-footylogos.svg",
+    "venue": "Estadio Santiago Bernabéu",
+    "start_time": "2026-10-11T00:45:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "La Liga",
+    "format": "La Liga",
+    "team1": "Elche",
+    "team1_logo": "https://assets.footylogos.com/logos/elche/elche-logo-footylogos.svg",
+    "team2": "Celta Vigo",
+    "team2_logo": "https://assets.footylogos.com/logos/celta-vigo/celta-vigo-logo-footylogos.svg",
+    "venue": "Estadio Manuel Martínez Valero",
+    "start_time": "2026-10-11T17:45:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "La Liga",
+    "format": "La Liga",
+    "team1": "Real Sociedad",
+    "team1_logo": "https://assets.footylogos.com/logos/real-sociedad/real-sociedad-logo-footylogos.svg",
+    "team2": "Deportivo La Coruña",
+    "team2_logo": "https://assets.footylogos.com/logos/deportivo-la-coruna/deportivo-la-coruna-logo-footylogos.svg",
+    "venue": "Reale Arena",
+    "start_time": "2026-10-11T19:00:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "La Liga",
+    "format": "La Liga",
+    "team1": "Real Betis",
+    "team1_logo": "https://assets.footylogos.com/logos/real-betis/real-betis-logo-footylogos.svg",
+    "team2": "Osasuna",
+    "team2_logo": "https://assets.footylogos.com/logos/osasuna/osasuna-logo-footylogos.svg",
+    "venue": "Estadio La Cartuja",
+    "start_time": "2026-10-11T21:15:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "La Liga",
+    "format": "La Liga",
+    "team1": "Racing Santander",
+    "team1_logo": "https://assets.footylogos.com/logos/racing-santander/racing-santander-logo-footylogos.svg",
+    "team2": "Valencia",
+    "team2_logo": "https://assets.footylogos.com/logos/valencia/valencia-logo-footylogos.svg",
+    "venue": "El Sardinero",
+    "start_time": "2026-10-12T00:45:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "La Liga",
+    "format": "La Liga",
+    "team1": "Levante",
+    "team1_logo": "https://assets.footylogos.com/logos/levante/levante-logo-footylogos.svg",
+    "team2": "Sevilla",
+    "team2_logo": "https://assets.footylogos.com/logos/sevilla/sevilla-logo-footylogos.svg",
+    "venue": "Estadi Ciutat de València",
+    "start_time": "2026-10-13T00:45:00+05:45",
+    "duration": 120
   }
 ]
 
