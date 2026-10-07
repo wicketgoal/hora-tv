@@ -2,14 +2,14 @@
   
   {
     "sport": "football",
-    "league": "International Friendly",
-    "format": "Friendly",
-    "team1": "Argentina",
-    "team1_logo": "https://flagcdn.com/w80/ar.png",
-    "team2": "Benin",
-    "team2_logo": "https://flagcdn.com/w80/bj.png",
-    "venue": " Estadio Mâs Monumental",
-    "start_time": "2026-10-07T04:45:00+05:45",
+    "league": "Saudi Pro League",
+    "format": "Saudi Arabia",
+    "team1": "Al Nassr",
+    "team1_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/Pb3KllpKi3APWoIeHOrQyw_96x96.png",
+    "team2": "Diriyah",
+    "team2_logo": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
+    "venue": "Alawwal Park",
+    "start_time": "2026-10-09T23:45:00+05:45",
     "duration": 120
   },
   
