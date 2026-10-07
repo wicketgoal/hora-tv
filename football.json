@@ -18,9 +18,9 @@
     "league": "Süper Lig",
     "format": "Süper Lig",
     "team1": "Galatasaray",
-    "team1_logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Galatasaray%20Sports%20Club%20Logo.png",
+    "team1_logo": "https://assets.footylogos.com/logos/galatasaray/galatasaray-logo-footylogos.svg",
     "team2": "Kasımpaşa",
-    "team2_logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kasimpasa%20logo.svg",
+    "team2_logo": "https://assets.footylogos.com/logos/kasimpasa/kasimpasa-logo-footylogos.svg",
     "venue": "RAMS Park",
     "start_time": "2026-10-09T22:45:00+05:45",
     "duration": 120
@@ -30,9 +30,9 @@
     "league": "Bundesliga",
     "format": "Bundesliga",
     "team1": "Borussia Dortmund",
-    "team1_logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Borussia%20Dortmund%20logo.svg",
+    "team1_logo": "https://assets.footylogos.com/logos/borussia-dortmund/borussia-dortmund-logo-footylogos.svg",
     "team2": "Werder Bremen",
-    "team2_logo": "https://commons.wikimedia.org/wiki/Special:FilePath/SV-Werder-Bremen-Logo.svg",
+    "team2_logo": "https://assets.footylogos.com/logos/werder-bremen/werder-bremen-logo-footylogos.svg",
     "venue": "SIGNAL IDUNA PARK",
     "start_time": "2026-10-10T00:15:00+05:45",
     "duration": 120
@@ -42,9 +42,9 @@
     "league": "La Liga",
     "format": "La Liga",
     "team1": "Málaga",
-    "team1_logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Malaga_CF.svg",
+    "team1_logo": "https://assets.footylogos.com/logos/malaga-cf/malaga-cf-logo-footylogos.svg",
     "team2": "Espanyol",
-    "team2_logo": "https://commons.wikimedia.org/wiki/Special:FilePath/RCD_Espanyol_Crest.svg",
+    "team2_logo": "https://assets.footylogos.com/logos/rcd-espanyol-barcelona/rcd-espanyol-barcelona-logo-footylogos.svg",
     "venue": "La Rosaleda",
     "start_time": "2026-10-09T22:45:00+05:45",
     "duration": 120
@@ -54,11 +54,12 @@
     "league": "EFL Championship",
     "format": "Championship",
     "team1": "West Ham United",
-    "team1_logo": "https://commons.wikimedia.org/wiki/Special:FilePath/West_Ham_United_FC.svg",
+    "team1_logo": "https://assets.footylogos.com/logos/west-ham-united/west-ham-united-logo-footylogos.svg",
     "team2": "Queens Park Rangers",
-    "team2_logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Queens_Park_Rangers_crest.svg",
+    "team2_logo": "https://assets.footylogos.com/logos/queens-park-rangers/queens-park-rangers-logo-footylogos.svg",
     "venue": "London Stadium",
     "start_time": "2026-10-10T00:45:00+05:45",
     "duration": 120
   }
 ]
+
