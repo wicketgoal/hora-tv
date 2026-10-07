@@ -981,25 +981,19 @@
     {
       "name": "Server 5",
       "url": "https://w6.sportsonliine.click/channels/bra/br1.php"
-    },
+    }
+  ],
+  "al-nassr-vs-diriyah": [
     {
       "name": "Auto Server 1",
-      "url": "https://w6.sportsonliine.click/channels/hd/hd2.php"
+      "url": "https://w6.sportsonliine.click/channels/hd/hd10.php"
     },
     {
       "name": "Auto Server 2",
-      "url": "https://w6.sportsonliine.click/channels/hd/hd6.php"
+      "url": "https://w6.sportsonliine.click/channels/pt/sporttv2.php"
     },
     {
       "name": "Auto Server 3",
-      "url": "https://w6.sportsonliine.click/channels/hd/hd5.php"
-    },
-    {
-      "name": "Auto Server 4",
-      "url": "https://w6.sportsonliine.click/channels/pt/sporttv1.php"
-    },
-    {
-      "name": "Auto Server 5",
       "url": "https://w6.sportsonliine.click/channels/bra/br1.php"
     }
   ]
