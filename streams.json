@@ -1250,11 +1250,15 @@
   "pakistan-vs-sri-lanka": [
     {
       "name": "Server 1",
-      "url": "https://embed.st/embed/admin/admin-willow-cricket/5"
+      "url": "https://webcric.im/frame3.htm"
     },
     {
       "name": "Server 2",
       "url": "https://webcric.im/frame3.htm"
+    },
+    {
+      "name": "Server 3",
+      "url": "https://embed.st/embed/admin/admin-willow-cricket/5"
     }
   ]
 }
