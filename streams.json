@@ -1251,6 +1251,10 @@
     {
       "name": "Server 1",
       "url": "https://embed.st/embed/admin/admin-willow-cricket/5"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://webcric.im/frame3.htm"
     }
   ]
 }
