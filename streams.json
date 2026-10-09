@@ -1218,5 +1218,19 @@
       "url": "https://w6.sportsonliine.click/channels/bra/br4.php",
       "automatic": true
     }
+  ],
+  "oman-vs-canada": [
+    {
+      "name": "Server 1",
+      "url": "https://embedsports.me/cricket/oman-vs-canada-stream-1"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://embedsports.me/cricket/oman-vs-canada-stream-2"
+    },
+    {
+      "name": "Server 3",
+      "url": "https://embedsports.me/cricket/oman-vs-canada-stream-3"
+    }
   ]
 }
