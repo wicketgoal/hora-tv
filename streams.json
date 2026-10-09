@@ -1068,5 +1068,155 @@
       "name": "Server 1",
       "url": "https://embedsports.me/cricket/usa-vs-namibia-stream-1"
     }
+  ],
+  "arsenal-vs-leeds-united": [
+    {
+      "name": "Server 1",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://w6.sportsonliine.click/channels/pt/eleven1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://w6.sportsonliine.click/channels/bra/br2.php",
+      "automatic": true
+    }
+  ],
+  "rayo-vallecano-vs-athletic-club": [
+    {
+      "name": "Server 1",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd6.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://w6.sportsonliine.click/channels/pt/eleven2.php",
+      "automatic": true
+    }
+  ],
+  "aston-villa-vs-brentford": [
+    {
+      "name": "Server 1",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://w6.sportsonliine.click/channels/pt/eleven2.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://w6.sportsonliine.click/channels/bra/br2.php",
+      "automatic": true
+    }
+  ],
+  "chelsea-vs-afc-bournemouth": [
+    {
+      "name": "Server 1",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd2.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://w6.sportsonliine.click/channels/pt/eleven1.php",
+      "automatic": true
+    }
+  ],
+  "sunderland-vs-brighton-hove-albion": [
+    {
+      "name": "Server 1",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd10.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://w6.sportsonliine.click/channels/bra/br6.php",
+      "automatic": true
+    }
+  ],
+  "ipswich-town-vs-fulham": [
+    {
+      "name": "Server 1",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd11.php",
+      "automatic": true
+    }
+  ],
+  "deportivo-alav-s-vs-atl-tico-madrid": [
+    {
+      "name": "Server 1",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd6.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://w6.sportsonliine.click/channels/pt/eleven3.php",
+      "automatic": true
+    }
+  ],
+  "manchester-united-vs-tottenham-hotspur": [
+    {
+      "name": "Server 1",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://w6.sportsonliine.click/channels/pt/eleven1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://w6.sportsonliine.click/channels/bra/br2.php",
+      "automatic": true
+    }
+  ],
+  "barcelona-vs-getafe": [
+    {
+      "name": "Server 1",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd2.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd6.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://w6.sportsonliine.click/channels/pt/eleven2.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 4",
+      "url": "https://w6.sportsonliine.click/channels/bra/br4.php",
+      "automatic": true
+    }
+  ],
+  "real-madrid-vs-villarreal": [
+    {
+      "name": "Server 1",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd2.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://w6.sportsonliine.click/channels/hd/hd6.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://w6.sportsonliine.click/channels/pt/eleven1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 4",
+      "url": "https://w6.sportsonliine.click/channels/bra/br4.php",
+      "automatic": true
+    }
   ]
 }
