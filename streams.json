@@ -1316,7 +1316,26 @@
       "automatic": true
     }
   ],
-  "sc-freiburg-vs-schalke-04": [
+  "augsburg-vs-bayern-m-nchen": [
+    {
+      "name": "Server 1",
+      "url": "https://ww1.sportsonnline.click/channels/hd/hd3.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://ww1.sportsonnline.click/channels/bra/br1.php",
+      "automatic": true
+    }
+  ],
+  "k-ln-vs-borussia-m-gladbach": [
+    {
+      "name": "Server 1",
+      "url": "https://ww1.sportsonnline.click/channels/hd/hd3.php",
+      "automatic": true
+    }
+  ],
+  "freiburg-vs-schalke-04": [
     {
       "name": "Server 1",
       "url": "https://ww1.sportsonnline.click/channels/hd/hd3.php",
