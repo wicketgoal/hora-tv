@@ -1346,5 +1346,19 @@
       "url": "https://ww1.sportsonnline.click/channels/pt/eleven2.php",
       "automatic": true
     }
+  ],
+  "nepal-vs-canada": [
+    {
+      "name": "Server 1",
+      "url": "https://embedsports.me/cricket/canada-vs-nepal-stream-1"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://embedsports.me/cricket/canada-vs-nepal-stream-2"
+    },
+    {
+      "name": "Server 3",
+      "url": "https://embedsports.me/cricket/canada-vs-nepal-stream-3"
+    }
   ]
 }
