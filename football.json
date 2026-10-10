@@ -2,14 +2,14 @@
   
   {
     "sport": "football",
-    "league": "Saudi Pro League",
-    "format": "Saudi Arabia",
-    "team1": "Al Nassr",
-    "team1_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/Pb3KllpKi3APWoIeHOrQyw_96x96.png",
-    "team2": "Diriyah",
-    "team2_logo": "https://www.gstatic.com/onebox/sports/logos/crest_48dp.png",
-    "venue": "Alawwal Park",
-    "start_time": "2026-10-09T23:45:00+05:45",
+    "league": "Majos Soccer League",
+    "format": "MLS",
+    "team1": "Inter Miami",
+    "team1_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/qbqMtgzKCYVxZMzcB4iQqQ_96x96.png",
+    "team2": "DC United",
+    "team2_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/nL0o5hn9yWP2wrpyz1chDA_96x96.png",
+    "venue": "Nu Stadium",
+    "start_time": "2026-10-11T05:15:00+05:45",
     "duration": 120
   },
   
