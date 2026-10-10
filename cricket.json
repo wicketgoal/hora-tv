@@ -58,7 +58,7 @@
     "team2": "West Indies",
     "team2_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/qziJXGzGxNQbkPJRfxodgA_96x96.png",
     "venue": "JSCA International Stadium Complex, Ranchi",
-    "start_time": "2026-10-09T19:15:00+05:45",
+    "start_time": "2026-10-11T19:15:00+05:45",
     "duration": 240
   },
   {
@@ -70,44 +70,7 @@
     "team2": "Sri Lanka",
     "team2_logo": "https://flagcdn.com/w160/lk.png",
     "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-    "start_time": "2026-10-09T18:45:00+05:45",
-    "duration": 240
-  },
-
-  {
-    "sport": "cricket",
-    "league": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B",
-    "format": "T20",
-    "team1": "Hong Kong",
-    "team1_logo": "https://flagcdn.com/w160/hk.png",
-    "team2": "Saudi Arabia",
-    "team2_logo": "https://flagcdn.com/w160/sa.png",
-    "venue": "Bayuemas Oval, Kuala Lumpur",
-    "start_time": "2026-10-11T07:00:00+05:45",
-    "duration": 240
-  },
-  {
-    "sport": "cricket",
-    "league": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B",
-    "format": "T20",
-    "team1": "Malaysia",
-    "team1_logo": "https://flagcdn.com/w160/my.png",
-    "team2": "Maldives",
-    "team2_logo": "https://flagcdn.com/w160/mv.png",
-    "venue": "YSD-UKM Cricket Oval, Bangi",
-    "start_time": "2026-10-11T07:00:00+05:45",
-    "duration": 240
-  },
-  {
-    "sport": "cricket",
-    "league": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B",
-    "format": "T20",
-    "team1": "China",
-    "team1_logo": "https://flagcdn.com/w160/cn.png",
-    "team2": "Singapore",
-    "team2_logo": "https://flagcdn.com/w160/sg.png",
-    "venue": "Selangor Turf Club, Kuala Lumpur",
-    "start_time": "2026-10-11T07:00:00+05:45",
+    "start_time": "2026-10-11T18:45:00+05:45",
     "duration": 240
   },
   {
@@ -121,42 +84,6 @@
     "venue": "Zayed Cricket Stadium, Abu Dhabi",
     "start_time": "2026-10-11T11:15:00+05:45",
     "duration": 600
-  },
-  {
-    "sport": "cricket",
-    "league": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A",
-    "format": "T20",
-    "team1": "Kuwait",
-    "team1_logo": "https://flagcdn.com/w160/kw.png",
-    "team2": "Myanmar",
-    "team2_logo": "https://flagcdn.com/w160/mm.png",
-    "venue": "Bayuemas Oval, Kuala Lumpur",
-    "start_time": "2026-10-11T07:00:00+05:45",
-    "duration": 240
-  },
-  {
-    "sport": "cricket",
-    "league": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A",
-    "format": "T20",
-    "team1": "Bhutan",
-    "team1_logo": "https://flagcdn.com/w160/bt.png",
-    "team2": "Qatar",
-    "team2_logo": "https://flagcdn.com/w160/qa.png",
-    "venue": "YSD-UKM Cricket Oval, Bangi",
-    "start_time": "2026-10-11T07:00:00+05:45",
-    "duration": 240
-  },
-  {
-    "sport": "cricket",
-    "league": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A",
-    "format": "T20",
-    "team1": "Bahrain",
-    "team1_logo": "https://flagcdn.com/w160/bh.png",
-    "team2": "Mongolia",
-    "team2_logo": "https://flagcdn.com/w160/mn.png",
-    "venue": "Selangor Turf Club, Kuala Lumpur",
-    "start_time": "2026-10-11T07:00:00+05:45",
-    "duration": 240
   },
   {
     "sport": "cricket",
