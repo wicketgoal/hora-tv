@@ -1277,5 +1277,12 @@
       "url": "https://ww1.sportsonnline.click/channels/pt/eleven1.php",
       "automatic": true
     }
+  ],
+  "inter-miami-vs-dc-united": [
+    {
+      "name": "Server 1",
+      "url": "https://ww1.sportsonnline.click/channels/hd/hd1.php",
+      "automatic": true
+    }
   ]
 }
