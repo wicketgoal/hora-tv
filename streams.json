@@ -1284,5 +1284,22 @@
       "url": "https://ww1.sportsonnline.click/channels/hd/hd1.php",
       "automatic": true
     }
+  ],
+  "elche-vs-celta-de-vigo": [
+    {
+      "name": "Server 1",
+      "url": "https://ww1.sportsonnline.click/channels/hd/hd2.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://ww1.sportsonnline.click/channels/hd/hd6.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://ww1.sportsonnline.click/channels/pt/eleven3.php",
+      "automatic": true
+    }
   ]
 }
