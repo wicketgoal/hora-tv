@@ -1301,5 +1301,31 @@
       "url": "https://ww1.sportsonnline.click/channels/pt/eleven3.php",
       "automatic": true
     }
+  ],
+  "mainz-05-vs-bayer-leverkusen": [
+    {
+      "name": "Server 1",
+      "url": "https://ww1.sportsonnline.click/channels/hd/hd9.php",
+      "automatic": true
+    }
+  ],
+  "rb-leipzig-vs-eintracht-frankfurt": [
+    {
+      "name": "Server 1",
+      "url": "https://ww1.sportsonnline.click/channels/hd/hd3.php",
+      "automatic": true
+    }
+  ],
+  "sc-freiburg-vs-schalke-04": [
+    {
+      "name": "Server 1",
+      "url": "https://ww1.sportsonnline.click/channels/hd/hd3.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://ww1.sportsonnline.click/channels/pt/eleven2.php",
+      "automatic": true
+    }
   ]
 }
