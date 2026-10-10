@@ -291,7 +291,117 @@
     "venue": "Estadi Ciutat de València",
     "start_time": "2026-10-13T00:45:00+05:45",
     "duration": 120
+  },
+
+  {
+    "sport": "football",
+    "league": "Bundesliga",
+    "format": "Bundesliga",
+    "team1": "Borussia Dortmund",
+    "team1_logo": "https://assets.footylogos.com/logos/borussia-dortmund/borussia-dortmund-logo-footylogos.svg",
+    "team2": "Werder Bremen",
+    "team2_logo": "https://assets.footylogos.com/logos/werder-bremen/werder-bremen-logo-footylogos.svg",
+    "venue": "Signal Iduna Park",
+    "start_time": "2026-10-10T00:15:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Bundesliga",
+    "format": "Bundesliga",
+    "team1": "TSG Hoffenheim",
+    "team1_logo": "https://assets.footylogos.com/logos/tsg-hoffenheim/tsg-hoffenheim-logo-footylogos.svg",
+    "team2": "Hamburger SV",
+    "team2_logo": "https://assets.footylogos.com/logos/hamburger-sv/hamburger-sv-logo-footylogos.svg",
+    "venue": "PreZero Arena",
+    "start_time": "2026-10-10T19:15:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Bundesliga",
+    "format": "Bundesliga",
+    "team1": "FC Augsburg",
+    "team1_logo": "https://assets.footylogos.com/logos/fc-augsburg/fc-augsburg-logo-footylogos.svg",
+    "team2": "Bayern Munich",
+    "team2_logo": "https://assets.footylogos.com/logos/bayern-munich/bayern-munich-logo-footylogos.svg",
+    "venue": "WWK Arena",
+    "start_time": "2026-10-10T19:15:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Bundesliga",
+    "format": "Bundesliga",
+    "team1": "Mainz 05",
+    "team1_logo": "https://assets.footylogos.com/logos/mainz-05/mainz-05-logo-footylogos.svg",
+    "team2": "Bayer Leverkusen",
+    "team2_logo": "https://assets.footylogos.com/logos/bayer-leverkusen/bayer-leverkusen-logo-footylogos.svg",
+    "venue": "MEWA Arena",
+    "start_time": "2026-10-10T19:15:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Bundesliga",
+    "format": "Bundesliga",
+    "team1": "Union Berlin",
+    "team1_logo": "https://assets.footylogos.com/logos/union-berlin/union-berlin-logo-footylogos.svg",
+    "team2": "SV Elversberg",
+    "team2_logo": "https://assets.footylogos.com/logos/sv-elversberg/sv-elversberg-logo-footylogos.svg",
+    "venue": "Stadion An der Alten Försterei",
+    "start_time": "2026-10-10T19:15:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Bundesliga",
+    "format": "Bundesliga",
+    "team1": "SC Paderborn 07",
+    "team1_logo": "https://assets.footylogos.com/logos/sc-paderborn-07/sc-paderborn-07-logo-footylogos.svg",
+    "team2": "VfB Stuttgart",
+    "team2_logo": "https://assets.footylogos.com/logos/vfb-stuttgart/vfb-stuttgart-logo-footylogos.svg",
+    "venue": "Home Deluxe Arena",
+    "start_time": "2026-10-10T19:15:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Bundesliga",
+    "format": "Bundesliga",
+    "team1": "RB Leipzig",
+    "team1_logo": "https://assets.footylogos.com/logos/rb-leipzig/rb-leipzig-logo-footylogos.svg",
+    "team2": "Eintracht Frankfurt",
+    "team2_logo": "https://assets.footylogos.com/logos/eintracht-frankfurt/eintracht-frankfurt-logo-footylogos.svg",
+    "venue": "Red Bull Arena",
+    "start_time": "2026-10-10T22:15:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Bundesliga",
+    "format": "Bundesliga",
+    "team1": "FC Cologne",
+    "team1_logo": "https://assets.footylogos.com/logos/1-fc-koln/1-fc-koln-logo-footylogos.svg",
+    "team2": "Borussia Monchengladbach",
+    "team2_logo": "https://assets.footylogos.com/logos/borussia-monchengladbach/borussia-monchengladbach-logo-footylogos.svg",
+    "venue": "RheinEnergieSTADION",
+    "start_time": "2026-10-11T19:15:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Bundesliga",
+    "format": "Bundesliga",
+    "team1": "SC Freiburg",
+    "team1_logo": "https://assets.footylogos.com/logos/sc-freiburg/sc-freiburg-logo-footylogos.svg",
+    "team2": "Schalke 04",
+    "team2_logo": "https://assets.footylogos.com/logos/schalke-04/schalke-04-logo-footylogos.svg",
+    "venue": "Europa-Park Stadion",
+    "start_time": "2026-10-11T21:15:00+05:45",
+    "duration": 120
   }
+  
 ]
 
 
