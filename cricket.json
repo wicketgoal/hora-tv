@@ -46,7 +46,7 @@
     "team2": "Australia",
     "team2_logo": "https://flagcdn.com/w160/au.png",
     "venue": "Kingsmead, Durban",
-    "start_time": "2026-10-10T13:15:00+05:45",
+    "start_time": "2026-10-13T13:15:00+05:45",
     "duration": 480
   },
   {
@@ -82,7 +82,7 @@
     "team2": "Bangladesh",
     "team2_logo": "https://flagcdn.com/w160/bd.png",
     "venue": "Zayed Cricket Stadium, Abu Dhabi",
-    "start_time": "2026-10-11T11:15:00+05:45",
+    "start_time": "2026-10-13T11:15:00+05:45",
     "duration": 600
   },
   {
@@ -91,10 +91,10 @@
     "format": "ODI",
     "team1": "Nepal",
     "team1_logo": "https://flagcdn.com/w160/np.png",
-    "team2": "Canada",
-    "team2_logo": "https://flagcdn.com/w160/ca.png",
+    "team2": "Oman",
+    "team2_logo": "https://flagcdn.com/w160/om.png",
     "venue": "Al Amerat Cricket Ground, Al Amerat",
-    "start_time": "2026-10-11T11:15:00+05:45",
+    "start_time": "2026-10-13T11:15:00+05:45",
     "duration": 480
   },
   {
