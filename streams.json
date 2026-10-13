@@ -1189,11 +1189,11 @@
   "nepal-vs-oman": [
     {
       "name": "Server 1",
-      "url": "https://hugh.cdn.rumble.cloud/live/kd32s8ur/live-hls/xx3e-it9w/chunklist_i1_DVR.m3u8"
+      "url": "https://player.kick.com/wolfislive"
     },
     {
-      "name": "Nepali",
-      "url": "https://player.kick.com/wolfislive"
+      "name": "English",
+      "url": "https://embedsports.me/cricket/oman-vs-nepal-stream-1"
     },
     {
       "name": "Server 3",
