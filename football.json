@@ -8,7 +8,7 @@
     "team2": "Crystal Palace",
     "team2_logo": "https://assets.footylogos.com/logos/crystal-palace/crystal-palace-logo-footylogos.svg",
     "venue": "Groupama Stadium",
-    "start_time": "2026-10-15T23:30:00+05:45",
+    "start_time": "2026-10-15T22:30:00+05:45",
     "duration": 120
   },
   {
@@ -20,7 +20,7 @@
     "team2": "Hapoel Be'er Sheva",
     "team2_logo": "https://assets.footylogos.com/logos/hapoel-beer-sheva/hapoel-beer-sheva-logo-footylogos.svg",
     "venue": "AFAS Stadion",
-    "start_time": "2026-10-15T23:30:00+05:45",
+    "start_time": "2026-10-15T22:30:00+05:45",
     "duration": 120
   },
   {
@@ -32,7 +32,7 @@
     "team2": "Bayer Leverkusen",
     "team2_logo": "https://assets.footylogos.com/logos/bayer-leverkusen/bayer-leverkusen-logo-footylogos.svg",
     "venue": "Stadion Poznań",
-    "start_time": "2026-10-15T23:30:00+05:45",
+    "start_time": "2026-10-15T22:30:00+05:45",
     "duration": 120
   },
   {
@@ -44,7 +44,7 @@
     "team2": "Milan",
     "team2_logo": "https://assets.footylogos.com/logos/ac-milan/ac-milan-logo-footylogos.svg",
     "venue": "Red Bull Arena",
-    "start_time": "2026-10-15T23:30:00+05:45",
+    "start_time": "2026-10-15T22:30:00+05:45",
     "duration": 120
   },
   {
@@ -56,7 +56,7 @@
     "team2": "Sunderland",
     "team2_logo": "https://assets.footylogos.com/logos/sunderland/sunderland-logo-footylogos.svg",
     "venue": "Campo Manuel Marques",
-    "start_time": "2026-10-15T23:30:00+05:45",
+    "start_time": "2026-10-15T22:30:00+05:45",
     "duration": 120
   },
   {
@@ -68,7 +68,7 @@
     "team2": "Real Sociedad",
     "team2_logo": "https://assets.footylogos.com/logos/real-sociedad/real-sociedad-logo-footylogos.svg",
     "venue": "Stade Joseph Marien",
-    "start_time": "2026-10-15T23:30:00+05:45",
+    "start_time": "2026-10-15T22:30:00+05:45",
     "duration": 120
   },
   {
@@ -80,7 +80,7 @@
     "team2": "Getafe",
     "team2_logo": "https://assets.footylogos.com/logos/getafe-cf/getafe-cf-logo-footylogos.svg",
     "venue": "Stadionul Ion Oblemenco",
-    "start_time": "2026-10-15T23:30:00+05:45",
+    "start_time": "2026-10-15T22:30:00+05:45",
     "duration": 120
   },
   {
@@ -92,7 +92,7 @@
     "team2": "Ajax",
     "team2_logo": "https://assets.footylogos.com/logos/ajax/ajax-logo-footylogos.svg",
     "venue": "Stadion Poljud",
-    "start_time": "2026-10-15T23:30:00+05:45",
+    "start_time": "2026-10-15T22:30:00+05:45",
     "duration": 120
   },
   {
@@ -104,7 +104,7 @@
     "team2": "Monaco",
     "team2_logo": "https://assets.footylogos.com/logos/as-monaco/as-monaco-logo-footylogos.svg",
     "venue": "Vasil Levski National Stadium",
-    "start_time": "2026-10-15T23:30:00+05:45",
+    "start_time": "2026-10-15T22:30:00+05:45",
     "duration": 120
   },
   {
@@ -116,7 +116,7 @@
     "team2": "Trabzonspor",
     "team2_logo": "https://assets.footylogos.com/logos/trabzonspor/trabzonspor-logo-footylogos.svg",
     "venue": "Tammelan Stadion",
-    "start_time": "2026-10-15T23:30:00+05:45",
+    "start_time": "2026-10-15T22:30:00+05:45",
     "duration": 120
   },
   {
@@ -128,7 +128,7 @@
     "team2": "Levski Sofia",
     "team2_logo": "https://assets.footylogos.com/logos/levski-sofia/levski-sofia-logo-footylogos.svg",
     "venue": "Goffertstadion",
-    "start_time": "2026-10-16T01:45:00+05:45",
+    "start_time": "2026-10-16T00:45:00+05:45",
     "duration": 120
   },
   {
@@ -140,7 +140,7 @@
     "team2": "Sturm Graz",
     "team2_logo": "https://assets.footylogos.com/logos/sturm-graz/sturm-graz-logo-footylogos.svg",
     "venue": "Vitality Stadium",
-    "start_time": "2026-10-16T01:45:00+05:45",
+    "start_time": "2026-10-16T00:45:00+05:45",
     "duration": 120
   },
   {
@@ -152,7 +152,7 @@
     "team2": "OFI",
     "team2_logo": "https://assets.footylogos.com/logos/ofi-crete/ofi-crete-logo-footylogos.svg",
     "venue": "Roazhon Park",
-    "start_time": "2026-10-16T01:45:00+05:45",
+    "start_time": "2026-10-16T00:45:00+05:45",
     "duration": 120
   },
   {
@@ -164,7 +164,7 @@
     "team2": "Juventus",
     "team2_logo": "https://assets.footylogos.com/logos/juventus/juventus-logo-footylogos.svg",
     "venue": "Estadio Abanca Balaídos",
-    "start_time": "2026-10-16T01:45:00+05:45",
+    "start_time": "2026-10-16T00:45:00+05:45",
     "duration": 120
   },
   {
@@ -176,7 +176,7 @@
     "team2": "Sporting Braga",
     "team2_logo": "https://assets.footylogos.com/logos/sc-braga/sc-braga-logo-footylogos.svg",
     "venue": "Parken Stadium",
-    "start_time": "2026-10-16T01:45:00+05:45",
+    "start_time": "2026-10-16T00:45:00+05:45",
     "duration": 120
   },
   {
@@ -188,7 +188,7 @@
     "team2": "Kauno Žalgiris",
     "team2_logo": "https://assets.footylogos.com/logos/kauno-zalgiris/kauno-zalgiris-logo-footylogos.svg",
     "venue": "Amex Stadium",
-    "start_time": "2026-10-16T01:45:00+05:45",
+    "start_time": "2026-10-16T00:45:00+05:45",
     "duration": 120
   },
   {
@@ -200,7 +200,7 @@
     "team2": "Celtic",
     "team2_logo": "https://assets.footylogos.com/logos/celtic/celtic-logo-footylogos.svg",
     "venue": "Estádio da Luz",
-    "start_time": "2026-10-16T01:45:00+05:45",
+    "start_time": "2026-10-16T00:45:00+05:45",
     "duration": 120
   },
   {
@@ -212,7 +212,7 @@
     "team2": "Beşiktaş",
     "team2_logo": "https://assets.footylogos.com/logos/besiktas/besiktas-logo-footylogos.svg",
     "venue": "PreZero Arena",
-    "start_time": "2026-10-16T01:45:00+05:45",
+    "start_time": "2026-10-16T00:45:00+05:45",
     "duration": 120
   },
   {
@@ -224,7 +224,7 @@
     "team2": "Anderlecht",
     "team2_logo": "https://assets.footylogos.com/logos/rsc-anderlecht/rsc-anderlecht-logo-footylogos.svg",
     "venue": "Stadion Maksimir",
-    "start_time": "2026-10-16T01:45:00+05:45",
+    "start_time": "2026-10-16T00:45:00+05:45",
     "duration": 120
   },
   {
@@ -236,7 +236,7 @@
     "team2": "Olympiakos Piraeus",
     "team2_logo": "https://assets.footylogos.com/logos/olympiacos/olympiacos-logo-footylogos.svg",
     "venue": "Stade Vélodrome",
-    "start_time": "2026-10-16T01:45:00+05:45",
+    "start_time": "2026-10-16T00:45:00+05:45",
     "duration": 120
   },
   {
@@ -248,7 +248,7 @@
     "team2": "Paphos",
     "team2_logo": "https://assets.footylogos.com/logos/pafos-fc/pafos-fc-logo-footylogos.svg",
     "venue": "Gewiss Stadium",
-    "start_time": "2026-10-16T01:45:00+05:45",
+    "start_time": "2026-10-16T00:45:00+05:45",
     "duration": 120
   }
 ]
