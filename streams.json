@@ -1249,5 +1249,19 @@
       "url": "https://ww1.sportsonnline.click/channels/hd/hd8.php",
       "automatic": true
     }
+  ],
+  "canada-vs-nepal": [
+    {
+      "name": "Server 1",
+      "url": "https://hugh.cdn.rumble.cloud/live/v13wgnv6/live-hls/jc5y-kmp3/chunklist_i1_DVR.m3u8"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://hugh.cdn.rumble.cloud/live/v13wgnv6/live-hls/jc5y-kmp3/chunklist_i1_DVR.m3u8"
+    },
+    {
+      "name": "Server 3",
+      "url": "https://hugh.cdn.rumble.cloud/live/v13wgnv6/live-hls/jc5y-kmp3/chunklist_i1_DVR.m3u8"
+    }
   ]
 }
