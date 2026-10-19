@@ -1349,5 +1349,11 @@
       "name": "Server 3",
       "url": "https://wicket-goal.pages.dev/football/football1/"
     }
+  ],
+  "afghanistan-vs-zimbabwe": [
+    {
+      "name": "Server 1",
+      "url": "https://webcric.im/frame8.htm"
+    }
   ]
 }
