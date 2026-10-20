@@ -753,6 +753,11 @@ async function loadData() {
         'cricket'
       ),
 
+       ...normaliseMatches(
+    data.npl,
+    'npl'
+  ),
+
       ...normaliseMatches(
         data.football,
         'football'
