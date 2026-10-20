@@ -1,6 +1,6 @@
 [
   {
-    "sport": "cricket",
+    "sport": "npl",
     "league": "Nepal Premier League",
     "format": "T20",
     "team1": "Lumbini Lions",
@@ -12,7 +12,7 @@
     "duration": 240
   },
   {
-    "sport": "cricket",
+    "sport": "npl",
     "league": "Nepal Premier League",
     "format": "T20",
     "team1": "Biratnagar Kings",
