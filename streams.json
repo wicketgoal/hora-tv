@@ -1304,5 +1304,15 @@
       "name": "Server 1",
       "url": "https://ww1.sportsonnline.click/channels/pt/sporttv3.php"
     }
+  ],
+  "pakistan-vs-england": [
+    {
+      "name": "Server 1",
+      "url": "https://freecdn.st/hembedplayer/csstream2/1/960/540"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://freecdn.st/hembedplayer/csstream2/1/960/540"
+    }
   ]
 }
