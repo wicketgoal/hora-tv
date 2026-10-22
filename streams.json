@@ -1479,5 +1479,15 @@
       "name": "Hindi",
       "url": "https://wicket-goal.pages.dev/football/football5/"
     }
+  ],
+  "sri-lanka-vs-england": [
+    {
+      "name": "Server 1",
+      "url": "https://freecdn.st/hembedplayer/csstream2/1/960/540"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://freecdn.st/hembedplayer/csstream2/1/960/540"
+    }
   ]
 }
