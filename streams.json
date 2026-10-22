@@ -1485,5 +1485,15 @@
       "name": "Server 1",
       "url": "https://embedsports.me/cricket/namibia-vs-ireland-stream-1"
     }
+  ],
+  "sri-lanka-vs-england": [
+    {
+      "name": "Server 1",
+      "url": "https://freecdn.st/hembedplayer/csstream2/1/960/540"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://freecdn.st/hembedplayer/csstream2/1/960/540"
+    }
   ]
 }
