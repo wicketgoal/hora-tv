@@ -1131,33 +1131,6 @@
       "url": "https://ww1.sportsonnline.click/channels/bra/br6.php"
     }
   ],
-  "internazionale-vs-shakhtar-donetsk": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd8.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd6.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 3",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd11.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 4",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd7.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 5",
-      "url": "https://ww1.sportsonnline.click/channels/bra/br6.php",
-      "automatic": true
-    }
-  ],
   "real-madrid-vs-rb-leipzig": [
     {
       "name": "Server 1",
@@ -1206,18 +1179,6 @@
       "url": "https://ww1.sportsonnline.click/channels/bra/br2.php"
     }
   ],
-  "aston-villa-vs-viking": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd2.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://ww1.sportsonnline.click/channels/bra/br3.php",
-      "automatic": true
-    }
-  ],
   "bayern-m-nchen-vs-arsenal": [
     {
       "name": "Server 1",
@@ -1234,236 +1195,6 @@
     {
       "name": "Server 4",
       "url": "https://ww1.sportsonnline.click/channels/bra/br2.php"
-    }
-  ],
-  "sporting-cp-vs-lask-linz": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/pt/sporttv5.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://ww1.sportsonnline.click/channels/bra/br4.php",
-      "automatic": true
-    }
-  ],
-  "club-brugge-vs-lens": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd4.php",
-      "automatic": true
-    }
-  ],
-  "real-betis-vs-feyenoord": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd10.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://ww1.sportsonnline.click/channels/pt/eleven3.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 3",
-      "url": "https://ww1.sportsonnline.click/channels/bra/br5.php",
-      "automatic": true
-    }
-  ],
-  "kairat-vs-panathinaikos": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd10.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://ww1.sportsonnline.click/channels/pt/eleven2.php",
-      "automatic": true
-    }
-  ],
-  "lech-pozna-vs-sunderland": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd1.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://ww1.sportsonnline.click/channels/pt/eleven3.php",
-      "automatic": true
-    }
-  ],
-  "jablonec-vs-brighton-hove-albion": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd2.php",
-      "automatic": true
-    }
-  ],
-  "ferencv-ros-vs-torreense": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/pt/eleven1.php",
-      "automatic": true
-    }
-  ],
-  "juventus-vs-rennes": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd11.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd7.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 3",
-      "url": "https://ww1.sportsonnline.click/channels/pt/eleven2.php",
-      "automatic": true
-    }
-  ],
-  "dinamo-zagreb-vs-nec": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd10.php",
-      "automatic": true
-    }
-  ],
-  "ararat-armenia-vs-az": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd9.php",
-      "automatic": true
-    }
-  ],
-  "ofi-vs-bayer-leverkusen": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd3.php",
-      "automatic": true
-    }
-  ],
-  "sturm-graz-vs-olympique-marseille": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd4.php",
-      "automatic": true
-    }
-  ],
-  "trabzonspor-vs-hearts": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd5.php",
-      "automatic": true
-    }
-  ],
-  "getafe-vs-lugano": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd6.php",
-      "automatic": true
-    }
-  ],
-  "crvena-zvezda-vs-k-benhavn": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd8.php",
-      "automatic": true
-    }
-  ],
-  "afc-bournemouth-vs-milan": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd1.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd7.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 3",
-      "url": "https://ww1.sportsonnline.click/channels/pt/eleven2.php",
-      "automatic": true
-    }
-  ],
-  "sporting-braga-vs-gent": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/pt/eleven1.php",
-      "automatic": true
-    }
-  ],
-  "celtic-vs-celta-de-vigo": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd5.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd6.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 3",
-      "url": "https://ww1.sportsonnline.click/channels/pt/eleven3.php",
-      "automatic": true
-    }
-  ],
-  "ajax-vs-atalanta": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd10.php",
-      "automatic": true
-    }
-  ],
-  "lincoln-red-imps-vs-twente": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd9.php",
-      "automatic": true
-    }
-  ],
-  "monaco-vs-freiburg": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd4.php",
-      "automatic": true
-    }
-  ],
-  "be-ikta-vs-crystal-palace": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd2.php",
-      "automatic": true
-    }
-  ],
-  "hoffenheim-vs-olympique-lyonnais": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd11.php",
-      "automatic": true
-    }
-  ],
-  "omonia-nicosia-vs-benfica": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/pt/sporttv5.php",
-      "automatic": true
-    }
-  ],
-  "celje-vs-salzburg": [
-    {
-      "name": "Server 1",
-      "url": "https://ww1.sportsonnline.click/channels/hd/hd3.php",
-      "automatic": true
     }
   ],
   "new-zealand-vs-india": [
@@ -1502,6 +1233,40 @@
     {
       "name": "Server 2",
       "url": "https://freecdn.st/hembedplayer/csstream2/1/960/540"
+    }
+  ],
+  "stuttgart-vs-borussia-m-gladbach": [
+    {
+      "name": "Server 1",
+      "url": "https://ww1.sportsonnline.click/channels/hd/hd3.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://ww1.sportsonnline.click/channels/pt/eleven3.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://ww1.sportsonnline.click/channels/bra/br1.php",
+      "automatic": true
+    }
+  ],
+  "ipswich-town-vs-nottingham-forest": [
+    {
+      "name": "Server 1",
+      "url": "https://ww1.sportsonnline.click/channels/hd/hd1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://ww1.sportsonnline.click/channels/pt/eleven1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://ww1.sportsonnline.click/channels/bra/br2.php",
+      "automatic": true
     }
   ]
 }
