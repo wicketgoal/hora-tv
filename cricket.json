@@ -8,32 +8,8 @@
     "team2": "India",
     "team2_logo": "https://flagcdn.com/w160/in.png",
     "venue": "Hagley Oval, Christchurch",
-    "start_time": "2026-10-22T12:45:00+05:45",
+    "start_time": "2026-10-24T12:45:00+05:45",
     "duration": 240
-  },
-  {
-    "sport": "cricket",
-    "league": "Australia tour of South Africa",
-    "format": "Test",
-    "team1": "South Africa",
-    "team1_logo": "https://flagcdn.com/w160/za.png",
-    "team2": "Australia",
-    "team2_logo": "https://flagcdn.com/w160/au.png",
-    "venue": "St George's Park, Gqeberha",
-    "start_time": "2026-10-22T13:45:00+05:45",
-    "duration": 300
-  },
-  {
-    "sport": "cricket",
-    "league": "Pakistan ODI Tri-Series",
-    "format": "ODI",
-    "team1": "Sri Lanka",
-    "team1_logo": "https://flagcdn.com/w160/lk.png",
-    "team2": "England",
-    "team2_logo": "https://flagcdn.com/w160/gb-eng.png",
-    "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-    "start_time": "2026-10-22T13:45:00+05:45",
-    "duration": 480
   },
   {
     "sport": "cricket",
@@ -44,43 +20,19 @@
     "team2": "Ireland",
     "team2_logo": "https://flagcdn.com/w160/ie.png",
     "venue": "High Performance Oval, Windhoek",
-    "start_time": "2026-10-22T13:45:00+05:45",
+    "start_time": "2026-10-24T13:15:00+05:45",
     "duration": 480
   },
   {
     "sport": "cricket",
-    "league": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C",
-    "format": "T20I",
-    "team1": "Nigeria",
-    "team1_logo": "https://flagcdn.com/w160/ng.png",
-    "team2": "Mozambique",
-    "team2_logo": "https://flagcdn.com/w160/mz.png",
-    "venue": "Nigeria Cricket Federation Oval 1, Abuja",
-    "start_time": "2026-10-23T14:45:00+05:45",
-    "duration": 240
-  },
-  {
-    "sport": "cricket",
-    "league": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C",
-    "format": "T20I",
-    "team1": "Zambia",
-    "team1_logo": "https://flagcdn.com/w160/zm.png",
-    "team2": "Lesotho",
-    "team2_logo": "https://flagcdn.com/w160/ls.png",
-    "venue": "Nigeria Cricket Federation Oval 2, Abuja",
-    "start_time": "2026-10-23T14:45:00+05:45",
-    "duration": 240
-  },
-  {
-    "sport": "cricket",
-    "league": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C",
-    "format": "T20I",
-    "team1": "Gambia",
-    "team1_logo": "https://flagcdn.com/w160/gm.png",
-    "team2": "Uganda",
-    "team2_logo": "https://flagcdn.com/w160/ug.png",
-    "venue": "Nigeria Cricket Federation Oval 2, Abuja",
-    "start_time": "2026-10-23T18:45:00+05:45",
-    "duration": 240
+    "league": "Pakistan ODI Tri-Series",
+    "format": "ODI",
+    "team1": "Pakistan",
+    "team1_logo": "https://flagcdn.com/w160/pk.png",
+    "team2": "England",
+    "team2_logo": "https://flagcdn.com/w160/gb-eng.png",
+    "venue": "Gaddafi Stadium, Lahore",
+    "start_time": "2026-10-25T13:45:00+05:45",
+    "duration": 480
   }
 ]
