@@ -1591,5 +1591,11 @@
       "name": "Server 1",
       "url": "https://wicket-goal.pages.dev/mpd/?id=2"
     }
+  ],
+  "karnali-yaks-vs-janakpur-bolts": [
+    {
+      "name": "Server 1",
+      "url": "https://wicket-goal.pages.dev/mpd/?id=2"
+    }
   ]
 }
