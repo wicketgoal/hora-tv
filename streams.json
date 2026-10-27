@@ -1250,7 +1250,15 @@
   "biratnagar-kings-vs-chitwan-rhinos": [
     {
       "name": "Server 1",
+      "url": "https://wicket-goal.pages.dev/football/football1/"
+    },
+    {
+      "name": "Server 2",
       "url": "https://wicket-goal.pages.dev/mpd/?id=2"
+    },
+    {
+      "name": "Server 3",
+      "url": "https://wicket-goal.pages.dev/football/football1/"
     }
   ],
   "karnali-yaks-vs-janakpur-bolts": [
