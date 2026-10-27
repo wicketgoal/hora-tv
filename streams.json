@@ -1259,6 +1259,14 @@
     {
       "name": "Fancode",
       "url": "https://wicket-goal.pages.dev/mpd/?id=2"
+    },
+    {
+      "name": "NetTV",
+      "url": "https://wicket-goal.pages.dev/player/?id=NPL3"
+    },
+    {
+      "name": "Star Sports",
+      "url": "https://wicket-goal.pages.dev/player/?id=NPL4"
     }
   ],
   "karnali-yaks-vs-janakpur-bolts": [
