@@ -1481,5 +1481,23 @@
       "name": "Server 5",
       "url": "https://ott-nettv-02.nettv.com.np/iptvlivestream/hpremiumPAID/chunks.m3u8?nimblesessionid=61715959"
     }
+  ],
+  "janakpur-bolts-vs-kathmandu-gurkhas": [
+    {
+      "name": "Server 1",
+      "url": "https://wicket-goal.pages.dev/player/?id=NPL"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://wicket-goal.pages.dev/player/?id=NPL1"
+    },
+    {
+      "name": "Server 3",
+      "url": "https://wicket-goal.pages.dev/player/?id=NPL2"
+    },
+    {
+      "name": "Server 4",
+      "url": "https://wicket-goal.pages.dev/player/?id=NPL3"
+    }
   ]
 }
