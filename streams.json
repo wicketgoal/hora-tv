@@ -1522,5 +1522,15 @@
       "url": "https://ww1.sportsonnline.click/channels/bra/br4.php",
       "automatic": true
     }
+  ],
+  "perth-scorchers-women-vs-melbourne-renegades-women": [
+    {
+      "name": "Server 1",
+      "url": "https://freecdn.st/hembedplayer/csstream6/1/960/540"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://freecdn.st/hembedplayer/csstream6/1/960/540"
+    }
   ]
 }
