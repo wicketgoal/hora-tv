@@ -11,6 +11,18 @@
     "start_time": "2026-10-30T12:45:00+05:45",
     "duration": 240
   },
+   {
+    "sport": "cricket",
+    "league": "Australia Tour of South Africa",
+    "format": "Test",
+    "team1": "South Africa",
+    "team1_logo": "https://flagcdn.com/w80/sa.png",
+    "team2": "Australia",
+    "team2_logo": "https://flagcdn.com/w80/au.png",
+    "venue": "Cape Town",
+    "start_time": "2026-10-31T14:15:00+05:45",
+    "duration": 540
+  },
   {
     "sport": "cricket",
     "league": "Ireland Tour of Namibia 2026",
