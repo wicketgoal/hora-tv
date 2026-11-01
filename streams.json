@@ -1574,5 +1574,11 @@
       "name": "Server 3",
       "url": "https://wicket-goal.pages.dev/player/?id=NPL2"
     }
+  ],
+  "sydney-sixers-women-vs-hobart-hurricanes-women": [
+    {
+      "name": "Server 1",
+      "url": "https://freecdn.st/hembedplayer/csstream6/1/960/540"
+    }
   ]
 }
