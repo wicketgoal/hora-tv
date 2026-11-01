@@ -1550,5 +1550,15 @@
       "name": "Server 4",
       "url": "https://wicket-goal.pages.dev/player/?id=NPL3"
     }
+  ],
+  "sydney-thunder-women-vs-brisbane-heat-women": [
+    {
+      "name": "Server 1",
+      "url": "https://freecdn.st/hembedplayer/csstream6/1/960/540"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://freecdn.st/hembedplayer/csstream6/1/960/540"
+    }
   ]
 }
