@@ -1562,5 +1562,19 @@
       "name": "Server 3",
       "url": "https://wicket-goal.pages.dev/player/?id=NPL2"
     }
+  ],
+  "sudurpaschim-royals-vs-chitwan-rhinos": [
+    {
+      "name": "Server 1",
+      "url": "https://wicket-goal.pages.dev/player/?id=NPL"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://wicket-goal.pages.dev/player/?id=NPL1"
+    },
+    {
+      "name": "Server 3",
+      "url": "https://wicket-goal.pages.dev/player/?id=NPL2"
+    }
   ]
 }
