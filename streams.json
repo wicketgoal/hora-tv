@@ -1552,15 +1552,19 @@
   "kathmandu-gurkhas-vs-karnali-yaks": [
     {
       "name": "Server 1",
-      "url": "https://ott-nettv-02.nettv.com.np/iptvlivestream/hpremiumPAID/chunks.m3u8?nimblesessionid=65295594"
+      "url": "https://cr7world.pages.dev/shakaa?id=npl22"
     },
     {
       "name": "Server 2",
-      "url": "https://wicket-goal.pages.dev/player/?id=NPL1"
+      "url": "https://ott-nettv-02.nettv.com.np/iptvlivestream/hpremiumPAID/chunks.m3u8?nimblesessionid=65295594"
     },
     {
       "name": "Server 3",
-      "url": "https://wicket-goal.pages.dev/player/?id=NPL2"
+      "url": "https://wicket-goal.pages.dev/player/?id=NPL1"
+    },
+    {
+      "name": "Server 4",
+      "url": "https://wicket-goal.pages.dev/player/?id=NPL"
     }
   ],
   "sudurpaschim-royals-vs-chitwan-rhinos": [
