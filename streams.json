@@ -1665,5 +1665,23 @@
       "name": "Server 4",
       "url": "https://wicket-goal.pages.dev/player/?id=NPL2"
     }
+  ],
+  "lumbini-lions-vs-pokhara-avengers": [
+    {
+      "name": "Server 1",
+      "url": "https://wicket-goal.pages.dev/player/?id=NPL"
+    },
+    {
+      "name": "Fancode",
+      "url": "https://wicket-goal.pages.dev/player/?id=NPL1"
+    },
+    {
+      "name": "Server 3",
+      "url": "https://wicket-goal.pages.dev/football/football5/"
+    },
+    {
+      "name": "Server 4",
+      "url": "https://wicket-goal.pages.dev/player/?id=NPL2"
+    }
   ]
 }
