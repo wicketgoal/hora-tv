@@ -1633,5 +1633,19 @@
       "url": "https://sportsoonline.click/channels/hd/hd10.php",
       "automatic": true
     }
+  ],
+  "lumbini-lions-vs-janakpur-bolts": [
+    {
+      "name": "Server 1",
+      "url": "https://wicket-goal.pages.dev/player/?id=NPL"
+    },
+    {
+      "name": "Fancode",
+      "url": "https://wicket-goal.pages.dev/player/?id=NPL1"
+    },
+    {
+      "name": "Server 3",
+      "url": "https://wicket-goal.pages.dev/player/?id=NPL2"
+    }
   ]
 }
