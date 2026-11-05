@@ -1637,7 +1637,7 @@
   "lumbini-lions-vs-janakpur-bolts": [
     {
       "name": "Server 1",
-      "url": "https://wicket-goal.pages.dev/player/?id=NPL3"
+      "url": "https://wicket-goal.pages.dev/player/?id=NPL"
     },
     {
       "name": "Fancode",
@@ -1645,7 +1645,7 @@
     },
     {
       "name": "Server 3",
-      "url": "https://wicket-goal.pages.dev/player/?id=NPL"
+      "url": "https://wicket-goal.pages.dev/player/?id=NPL3"
     }
   ]
 }
