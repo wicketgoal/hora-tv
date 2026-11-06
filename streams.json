@@ -1546,5 +1546,63 @@
       "name": "Server 4",
       "url": "https://wicket-goal.pages.dev/player/?id=NPL2"
     }
+  ],
+  "hamburger-sv-vs-borussia-m-gladbach": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd3.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/eleven3.php",
+      "automatic": true
+    }
+  ],
+  "venezia-vs-udinese": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd7.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/sporttv2.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://sportsoonline.click/channels/bra/br6.php",
+      "automatic": true
+    }
+  ],
+  "everton-vs-coventry-city": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/eleven1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://sportsoonline.click/channels/bra/br2.php",
+      "automatic": true
+    }
+  ],
+  "sevilla-vs-deportivo-alav-s": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd6.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/eleven2.php",
+      "automatic": true
+    }
   ]
 }
