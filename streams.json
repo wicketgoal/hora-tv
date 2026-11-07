@@ -1730,5 +1730,15 @@
       "name": "Server 2",
       "url": "https://freecdn.st/hembedplayer/csstream6/1/960/540"
     }
+  ],
+  "sydney-sixers-women-vs-sydney-thunder-women": [
+    {
+      "name": "Server 1",
+      "url": "https://freecdn.st/hembedplayer/csstream6/1/960/540"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://freecdn.st/hembedplayer/csstream6/1/960/540"
+    }
   ]
 }
