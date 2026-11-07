@@ -1547,19 +1547,24 @@
       "url": "https://wicket-goal.pages.dev/player/?id=NPL2"
     }
   ],
-  "hamburger-sv-vs-borussia-m-gladbach": [
+  "leeds-united-vs-tottenham-hotspur": [
     {
       "name": "Server 1",
-      "url": "https://sportsoonline.click/channels/hd/hd3.php",
+      "url": "https://sportsoonline.click/channels/hd/hd5.php",
       "automatic": true
     },
     {
       "name": "Server 2",
-      "url": "https://sportsoonline.click/channels/pt/eleven3.php",
+      "url": "https://sportsoonline.click/channels/pt/eleven1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://sportsoonline.click/channels/bra/br2.php",
       "automatic": true
     }
   ],
-  "venezia-vs-udinese": [
+  "torino-vs-lecce": [
     {
       "name": "Server 1",
       "url": "https://sportsoonline.click/channels/hd/hd7.php",
@@ -1567,16 +1572,47 @@
     },
     {
       "name": "Server 2",
-      "url": "https://sportsoonline.click/channels/pt/sporttv2.php",
+      "url": "https://sportsoonline.click/channels/pt/sporttv3.php",
+      "automatic": true
+    }
+  ],
+  "mainz-05-vs-bayern-m-nchen": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd3.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/bra/br1.php",
+      "automatic": true
+    }
+  ],
+  "fulham-vs-newcastle-united": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd2.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/eleven2.php",
       "automatic": true
     },
     {
       "name": "Server 3",
-      "url": "https://sportsoonline.click/channels/bra/br6.php",
+      "url": "https://sportsoonline.click/channels/bra/br4.php",
       "automatic": true
     }
   ],
-  "everton-vs-coventry-city": [
+  "parma-vs-bologna": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd7.php",
+      "automatic": true
+    }
+  ],
+  "nottingham-forest-vs-manchester-city": [
     {
       "name": "Server 1",
       "url": "https://sportsoonline.click/channels/hd/hd1.php",
@@ -1593,7 +1629,7 @@
       "automatic": true
     }
   ],
-  "sevilla-vs-deportivo-alav-s": [
+  "osasuna-vs-athletic-club": [
     {
       "name": "Server 1",
       "url": "https://sportsoonline.click/channels/hd/hd6.php",
@@ -1602,6 +1638,76 @@
     {
       "name": "Server 2",
       "url": "https://sportsoonline.click/channels/pt/eleven2.php",
+      "automatic": true
+    }
+  ],
+  "stuttgart-vs-werder-bremen": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd3.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/eleven3.php",
+      "automatic": true
+    }
+  ],
+  "auxerre-vs-paris": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd4.php",
+      "automatic": true
+    }
+  ],
+  "roma-vs-sassuolo": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd7.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/sporttv3.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://sportsoonline.click/channels/bra/br2.php",
+      "automatic": true
+    }
+  ],
+  "valencia-vs-real-madrid": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd2.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/hd/hd6.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://sportsoonline.click/channels/pt/eleven1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 4",
+      "url": "https://sportsoonline.click/channels/bra/br3.php",
+      "automatic": true
+    }
+  ],
+  "psg-vs-troyes": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd4.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/sporttv4.php",
       "automatic": true
     }
   ]
