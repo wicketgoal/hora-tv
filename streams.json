@@ -1710,5 +1710,15 @@
       "url": "https://sportsoonline.click/channels/pt/sporttv4.php",
       "automatic": true
     }
+  ],
+  "melbourne-renegades-women-vs-adelaide-strikers-women": [
+    {
+      "name": "Server 1",
+      "url": "https://freecdn.st/hembedplayer/csstream6/1/960/540"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://freecdn.st/hembedplayer/csstream6/1/960/540"
+    }
   ]
 }
