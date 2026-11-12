@@ -8,10 +8,23 @@
     "team2": "India",
     "team2_logo": "https://flagcdn.com/w80/in.png",
     "venue": "Eden Park, Auckland",
-    "start_time": "2026-11-07T07:45:00+05:45",
-    "duration": 240
+    "start_time": "2026-11-13T07:45:00+05:45",
+    "duration": 440
   },
-   
+
+  {
+    "sport": "cricket",
+    "league": "England Tour of Australia 2026",
+    "format": "ODI",
+    "team1": "England",
+    "team1_logo": "https://flagcdn.com/w80/gb-eng.png",
+    "team2": "Australia",
+    "team2_logo": "https://flagcdn.com/w80/au.png",
+    "venue": "Perth",
+    "start_time": "2026-11-13T09:15:00+05:45",
+    "duration": 440
+  },
+  
   {
     "sport": "cricket",
     "league": "Women's Big Bash League",
