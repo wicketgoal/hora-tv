@@ -1889,5 +1889,17 @@
       "url": "https://sportsoonline.click/channels/pt/sporttv3.php",
       "automatic": true
     }
+  ],
+  "t-rkey-vs-belgium": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/sporttv1.php",
+      "automatic": true
+    }
   ]
 }
