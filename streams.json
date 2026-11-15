@@ -1998,5 +1998,11 @@
       "url": "https://sportsoonline.click/channels/pt/sporttv4.php",
       "automatic": true
     }
+  ],
+  "england-vs-australia": [
+    {
+      "name": "Server 1",
+      "url": "https://freecdn.st/hembedplayer/csstream2/1/960/540"
+    }
   ]
 }
