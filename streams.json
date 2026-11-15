@@ -2002,7 +2002,15 @@
   "england-vs-australia": [
     {
       "name": "Server 1",
-      "url": "https://freecdn.st/hembedplayer/csstream2/1/960/540"
+      "url": "https://allrounder3-0.pages.dev/cricket/willow-2"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://allrounder3-0.pages.dev/cricket/fancode"
+    },
+    {
+      "name": "Server 3",
+      "url": "https://allrounder3-0.pages.dev/cricket/willow-2"
     }
   ]
 }
