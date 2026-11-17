@@ -1737,268 +1737,6 @@
       "url": "https://wicket-goal.pages.dev/player/?id=NPL2"
     }
   ],
-  "kosovo-vs-israel": [
-    {
-      "name": "Server 1",
-      "url": "https://sportsoonline.click/channels/hd/hd4.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://sportsoonline.click/channels/pt/sporttv1.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 3",
-      "url": "https://sportsoonline.click/channels/bra/br2.php",
-      "automatic": true
-    }
-  ],
-  "norway-vs-wales": [
-    {
-      "name": "Server 1",
-      "url": "https://sportsoonline.click/channels/hd/hd1.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://sportsoonline.click/channels/hd/hd2.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 3",
-      "url": "https://sportsoonline.click/channels/pt/sporttv2.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 4",
-      "url": "https://sportsoonline.click/channels/bra/br2.php",
-      "automatic": true
-    }
-  ],
-  "georgia-vs-hungary": [
-    {
-      "name": "Server 1",
-      "url": "https://sportsoonline.click/channels/pt/sporttv3.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://sportsoonline.click/channels/bra/br1.php",
-      "automatic": true
-    }
-  ],
-  "northern-ireland-vs-ukraine": [
-    {
-      "name": "Server 1",
-      "url": "https://sportsoonline.click/channels/hd/hd2.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://sportsoonline.click/channels/pt/sporttv4.php",
-      "automatic": true
-    }
-  ],
-  "portugal-vs-denmark": [
-    {
-      "name": "Server 1",
-      "url": "https://sportsoonline.click/channels/hd/hd1.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://sportsoonline.click/channels/hd/hd9.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 3",
-      "url": "https://sportsoonline.click/channels/pt/sporttv1.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 4",
-      "url": "https://sportsoonline.click/channels/bra/br1.php",
-      "automatic": true
-    }
-  ],
-  "sweden-vs-bosnia-and-herzegovina": [
-    {
-      "name": "Server 1",
-      "url": "https://sportsoonline.click/channels/hd/hd10.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://sportsoonline.click/channels/pt/sporttv2.php",
-      "automatic": true
-    }
-  ],
-  "austria-vs-ireland-republic": [
-    {
-      "name": "Server 1",
-      "url": "https://sportsoonline.click/channels/hd/hd3.php",
-      "automatic": true
-    }
-  ],
-  "romania-vs-poland": [
-    {
-      "name": "Server 1",
-      "url": "https://sportsoonline.click/channels/hd/hd11.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://sportsoonline.click/channels/pt/sporttv3.php",
-      "automatic": true
-    }
-  ],
-  "cyprus-vs-montenegro": [
-    {
-      "name": "Server 1",
-      "url": "https://sportsoonline.click/channels/hd/hd1.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://sportsoonline.click/channels/pt/sporttv2.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 3",
-      "url": "https://sportsoonline.click/channels/bra/br2.php",
-      "automatic": true
-    }
-  ],
-  "latvia-vs-armenia": [
-    {
-      "name": "Server 1",
-      "url": "https://sportsoonline.click/channels/hd/hd8.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://sportsoonline.click/channels/hd/hd10.php",
-      "automatic": true
-    }
-  ],
-  "belarus-vs-albania": [
-    {
-      "name": "Server 1",
-      "url": "https://sportsoonline.click/channels/hd/hd11.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://sportsoonline.click/channels/pt/sporttv3.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 3",
-      "url": "https://sportsoonline.click/channels/bra/br2.php",
-      "automatic": true
-    }
-  ],
-  "finland-vs-san-marino": [
-    {
-      "name": "Server 1",
-      "url": "https://sportsoonline.click/channels/hd/hd8.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://sportsoonline.click/channels/pt/sporttv2.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 3",
-      "url": "https://sportsoonline.click/channels/bra/br1.php",
-      "automatic": true
-    }
-  ],
-  "france-vs-turkey": [
-    {
-      "name": "Server 1",
-      "url": "https://sportsoonline.click/channels/hd/hd1.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://sportsoonline.click/channels/hd/hd4.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 3",
-      "url": "https://sportsoonline.click/channels/hd/hd9.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 4",
-      "url": "https://sportsoonline.click/channels/pt/sporttv2.php",
-      "automatic": true
-    }
-  ],
-  "belgium-vs-italy": [
-    {
-      "name": "Server 1",
-      "url": "https://sportsoonline.click/channels/hd/hd7.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://sportsoonline.click/channels/hd/hd3.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 3",
-      "url": "https://sportsoonline.click/channels/hd/hd5.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 4",
-      "url": "https://sportsoonline.click/channels/pt/sporttv3.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 5",
-      "url": "https://sportsoonline.click/channels/bra/br2.php",
-      "automatic": true
-    }
-  ],
-  "spain-vs-england": [
-    {
-      "name": "Server 1",
-      "url": "https://sportsoonline.click/channels/hd/hd2.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://sportsoonline.click/channels/hd/hd6.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 3",
-      "url": "https://sportsoonline.click/channels/pt/sporttv1.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 4",
-      "url": "https://sportsoonline.click/channels/bra/br1.php",
-      "automatic": true
-    }
-  ],
-  "croatia-vs-czech-republic": [
-    {
-      "name": "Server 1",
-      "url": "https://sportsoonline.click/channels/hd/hd11.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://sportsoonline.click/channels/pt/sporttv4.php",
-      "automatic": true
-    }
-  ],
   "england-vs-australia": [
     {
       "name": "Server 1",
@@ -2057,6 +1795,259 @@
     {
       "name": "Server 3",
       "url": "https://wicket-goal.pages.dev/player/?id=NPL2"
+    }
+  ],
+  "singapore-vs-brazil": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/bra/br1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/bra/br3.php",
+      "automatic": true
+    }
+  ],
+  "tanzania-vs-nigeria": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd7.php",
+      "automatic": true
+    }
+  ],
+  "south-sudan-vs-angola": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/pt/sporttv1.php",
+      "automatic": true
+    }
+  ],
+  "malawi-vs-egypt": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd4.php",
+      "automatic": true
+    }
+  ],
+  "ethiopia-vs-mozambique": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/pt/sporttv2.php",
+      "automatic": true
+    }
+  ],
+  "japan-vs-paraguay": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd11.php",
+      "automatic": true
+    }
+  ],
+  "saudi-arabia-vs-uzbekistan": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd9.php",
+      "automatic": true
+    }
+  ],
+  "guinea-bissau-vs-madagascar": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/pt/sporttv1.php",
+      "automatic": true
+    }
+  ],
+  "togo-vs-algeria": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd4.php",
+      "automatic": true
+    }
+  ],
+  "gambia-vs-c-te-d-ivoire": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd7.php",
+      "automatic": true
+    }
+  ],
+  "kenya-vs-south-africa": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd6.php",
+      "automatic": true
+    }
+  ],
+  "russia-vs-venezuela": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd8.php",
+      "automatic": true
+    }
+  ],
+  "rwanda-vs-mali": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd6.php",
+      "automatic": true
+    }
+  ],
+  "wales-vs-portugal": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd5.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/sporttv1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://sportsoonline.click/channels/bra/br1.php",
+      "automatic": true
+    }
+  ],
+  "denmark-vs-norway": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd2.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/sporttv2.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://sportsoonline.click/channels/bra/br2.php",
+      "automatic": true
+    }
+  ],
+  "ukraine-vs-georgia": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd11.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/sporttv4.php",
+      "automatic": true
+    }
+  ],
+  "israel-vs-austria": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd3.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/bra/br6.php",
+      "automatic": true
+    }
+  ],
+  "poland-vs-sweden": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd8.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/sporttv3.php",
+      "automatic": true
+    }
+  ],
+  "ireland-republic-vs-kosovo": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd10.php",
+      "automatic": true
+    }
+  ],
+  "hungary-vs-northern-ireland": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd1.php",
+      "automatic": true
+    }
+  ],
+  "bosnia-and-herzegovina-vs-romania": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd9.php",
+      "automatic": true
+    }
+  ],
+  "niger-vs-morocco": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd7.php",
+      "automatic": true
+    }
+  ],
+  "chile-vs-colombia": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd11.php",
+      "automatic": true
+    }
+  ],
+  "argentina-vs-costa-rica": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd6.php",
+      "automatic": true
+    }
+  ],
+  "usa-vs-haiti": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd5.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/sporttv1.php",
+      "automatic": true
+    }
+  ],
+  "french-guiana-vs-saint-vincent-and-the-grenadines": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd1.php",
+      "automatic": true
+    }
+  ],
+  "el-salvador-vs-saint-martin": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd2.php",
+      "automatic": true
+    }
+  ],
+  "mexico-vs-jamaica": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd10.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/sporttv1.php",
+      "automatic": true
+    }
+  ],
+  "nicaragua-vs-montserrat": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd2.php",
+      "automatic": true
     }
   ]
 }
