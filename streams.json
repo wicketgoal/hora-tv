@@ -1100,14 +1100,14 @@
   "lumbini-lions-vs-sudurpaschim-royals": [
     {
       "name": "Server 1",
-      "url": "https://spowncdn.bondsplive.online/npl268/raw.json?&e=.m3u8"
+      "url": "https://wicket-goal.pages.dev/player/?id=NPL"
     },
     {
       "name": "Server 2",
       "url": "https://wicket-goal.pages.dev/player/?id=NPL"
     },
     {
-      "name": "Server 3",
+      "name": "IOS",
       "url": "https://spowncdn.bondsplive.online/npl268/raw.json?&e=.m3u8"
     },
     {
