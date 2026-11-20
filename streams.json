@@ -2113,5 +2113,19 @@
       "name": "Server 3",
       "url": "https://wicket-goal.pages.dev/player/?id=ASIA2"
     }
+  ],
+  "india-a-vs-nepal": [
+    {
+      "name": "Server 1",
+      "url": "https://wicket-goal.pages.dev/player/?id=ASIA"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://wicket-goal.pages.dev/player/?id=ASIA1"
+    },
+    {
+      "name": "Server 3",
+      "url": "https://wicket-goal.pages.dev/player/?id=ASIA2"
+    }
   ]
 }
