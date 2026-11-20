@@ -2137,7 +2137,7 @@
     },
     {
       "name": "Starzplay HD",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/hdntl=exp=1795255311~acl=%2f*~id=01042696009932685908019953256292~data=hdntl,2119921,cricodi_2011,HIN,55b79653a1b6f2c3bf02f7ebe7aa7278fb593823cfb653e99d9f965278ed856e~hmac=9987fb2205e3b07d69af13867edf270951d4d61b5d4b209d773f0b563c2e3863/master_4140.m3u8"
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795211161~acl=/*~id=01042696009932685908019953256292~hmac=55b79653a1b6f2c3bf02f7ebe7aa7278fb593823cfb653e99d9f965278ed856e"
     }
   ]
 }
