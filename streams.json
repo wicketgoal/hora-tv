@@ -1846,5 +1846,236 @@
       "name": "Server 4",
       "url": "https://wicket-goal.pages.dev/player/?id=ASIA3"
     }
+  ],
+  "bayern-m-nchen-vs-k-ln": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd5.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/hd/hd3.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://sportsoonline.click/channels/pt/eleven1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 4",
+      "url": "https://sportsoonline.click/channels/bra/br1.php",
+      "automatic": true
+    }
+  ],
+  "athletic-club-vs-espanyol": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd2.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/hd/hd6.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://sportsoonline.click/channels/pt/eleven2.php",
+      "automatic": true
+    }
+  ],
+  "manchester-city-vs-fulham": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/hd/hd5.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://sportsoonline.click/channels/pt/eleven1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 4",
+      "url": "https://sportsoonline.click/channels/bra/br2.php",
+      "automatic": true
+    }
+  ],
+  "lazio-vs-lecce": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd7.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/sporttv1.php",
+      "automatic": true
+    }
+  ],
+  "como-vs-cagliari": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/pt/sporttv2.php",
+      "automatic": true
+    }
+  ],
+  "borussia-m-gladbach-vs-borussia-dortmund": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd3.php",
+      "automatic": true
+    }
+  ],
+  "rayo-vallecano-vs-valencia": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd6.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/eleven3.php",
+      "automatic": true
+    }
+  ],
+  "tottenham-hotspur-vs-ipswich-town": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/eleven2.php",
+      "automatic": true
+    }
+  ],
+  "chelsea-vs-leeds-united": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd5.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/eleven1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://sportsoonline.click/channels/bra/br2.php",
+      "automatic": true
+    }
+  ],
+  "aston-villa-vs-sunderland": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd10.php",
+      "automatic": true
+    }
+  ],
+  "afc-bournemouth-vs-nottingham-forest": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd11.php",
+      "automatic": true
+    }
+  ],
+  "parma-vs-roma": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd7.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/sporttv2.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://sportsoonline.click/channels/bra/br2.php",
+      "automatic": true
+    }
+  ],
+  "newcastle-united-vs-arsenal": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/eleven1.php",
+      "automatic": true
+    }
+  ],
+  "sevilla-vs-real-betis": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd6.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/eleven2.php",
+      "automatic": true
+    }
+  ],
+  "monaco-vs-auxerre": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd4.php",
+      "automatic": true
+    }
+  ],
+  "napoli-vs-torino": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd7.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/pt/sporttv3.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://sportsoonline.click/channels/bra/br6.php",
+      "automatic": true
+    }
+  ],
+  "strasbourg-vs-brest": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/pt/sporttv4.php",
+      "automatic": true
+    }
+  ],
+  "real-madrid-vs-celta-de-vigo": [
+    {
+      "name": "Server 1",
+      "url": "https://sportsoonline.click/channels/hd/hd1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sportsoonline.click/channels/hd/hd6.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://sportsoonline.click/channels/pt/eleven1.php",
+      "automatic": true
+    }
   ]
 }
