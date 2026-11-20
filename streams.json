@@ -2120,24 +2120,24 @@
   ],
   "india-a-vs-nepal": [
     {
-      "name": "English",
+      "name": "Hindi",
       "url": "https://wicket-goal.pages.dev/player/?id=NEP1"
     },
     {
-      "name": "Action Sports HD",
-      "url": "https://wicket-goal.pages.dev/player/?id=NEP2"
+      "name": "English",
+      "url": "https://wicket-goal.pages.dev/player/?id=NEP4"
     },
     {
-      "name": "For Android",
-      "url": "https://hugh.cdn.rumble.cloud/live/k1ub38pe/live-hls/5a4l-d5q3/chunklist_i1_DVR.m3u8"
+      "name": "Action SPorts HD",
+      "url": "https://wicket-goal.pages.dev/player/?id=NEP2"
     },
     {
       "name": "Willow HD",
       "url": "https://wicket-goal.pages.dev/player/?id=NEP3"
     },
     {
-      "name": "Starzplay HD",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795211161~acl=/*~id=01042696009932685908019953256292~hmac=55b79653a1b6f2c3bf02f7ebe7aa7278fb593823cfb653e99d9f965278ed856e"
+      "name": "For Android",
+      "url": "https://hugh.cdn.rumble.cloud/live/k1ub38pe/live-hls/5a4l-d5q3/chunklist_i1_DVR.m3u8"
     }
   ]
 }
