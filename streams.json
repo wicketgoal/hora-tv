@@ -2106,12 +2106,16 @@
       "url": "https://wicket-goal.pages.dev/player/?id=ASIA"
     },
     {
-      "name": "Server 2",
+      "name": "Ten Sports",
       "url": "https://wicket-goal.pages.dev/player/?id=ASIA1"
     },
     {
-      "name": "Server 3",
+      "name": "Ten 2 HD",
       "url": "https://wicket-goal.pages.dev/player/?id=ASIA2"
+    },
+    {
+      "name": "Startzplay",
+      "url": "https://wicket-goal.pages.dev/player/?id=ASIA3"
     }
   ],
   "india-a-vs-nepal": [
