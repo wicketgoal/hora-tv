@@ -1100,7 +1100,7 @@
   "lumbini-lions-vs-sudurpaschim-royals": [
     {
       "name": "Server 1",
-      "url": "https://ott-edge-mtdc.nettv.com.np/npl/live_match3/index.mpd&keyid=b4d7fc89103597185058cc4c81a1800d&key=17062472ba2a3f1db709d3bb7761c936"
+      "url": "https://hugh.cdn.rumble.cloud/live/qt9k24wa/live-hls/c2a6-zxya/chunklist_i1_DVR.m3u8"
     },
     {
       "name": "Server 2",
@@ -1108,7 +1108,7 @@
     },
     {
       "name": "IOS",
-      "url": "https://spowncdn.bondsplive.online/npl268/raw.json?&e=.m3u8"
+      "url": "https://hugh.cdn.rumble.cloud/live/qt9k24wa/live-hls/c2a6-zxya/chunklist_i1_DVR.m3u8"
     },
     {
       "name": "Server 4",
