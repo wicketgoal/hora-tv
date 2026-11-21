@@ -2139,5 +2139,23 @@
       "name": "For Android",
       "url": "https://hugh.cdn.rumble.cloud/live/k1ub38pe/live-hls/5a4l-d5q3/chunklist_i1_DVR.m3u8"
     }
+  ],
+  "sri-lanka-a-vs-hong-kong": [
+    {
+      "name": "Ten Sports",
+      "url": "https://wicket-goal.pages.dev/player/?id=ASIA1"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://wicket-goal.pages.dev/player/?id=ASIA2"
+    },
+    {
+      "name": "Starzplay",
+      "url": "https://wicket-goal.pages.dev/player/?id=ASIA3"
+    },
+    {
+      "name": "Server 4",
+      "url": "https://wicket-goal.pages.dev/player/?id=ASIA"
+    }
   ]
 }
