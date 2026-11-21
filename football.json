@@ -214,5 +214,126 @@
     "venue": "",
     "start_time": "2026-11-22T01:45:00+05:45",
     "duration": 120
+  },
+
+  {
+    "sport": "football",
+    "league": "Serie A",
+    "format": "Club",
+    "team1": "Juventus",
+    "team1_logo": "https://assets.footylogos.com/logos/juventus/juventus-logo-footylogos.svg",
+    "team2": "Venezia",
+    "team2_logo": "https://assets.footylogos.com/logos/venezia-fc/venezia-fc-logo-footylogos.svg",
+    "venue": "",
+    "start_time": "2026-11-22T17:15:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "LaLiga",
+    "format": "Club",
+    "team1": "Barcelona",
+    "team1_logo": "https://assets.footylogos.com/logos/fc-barcelona/fc-barcelona-logo-footylogos.svg",
+    "team2": "Villarreal",
+    "team2_logo": "https://assets.footylogos.com/logos/villarreal-cf/villarreal-cf-logo-footylogos.svg",
+    "venue": "",
+    "start_time": "2026-11-22T18:45:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Serie A",
+    "format": "Club",
+    "team1": "Bologna",
+    "team1_logo": "https://assets.footylogos.com/logos/bologna/bologna-logo-footylogos.svg",
+    "team2": "Udinese",
+    "team2_logo": "https://assets.footylogos.com/logos/udinese/udinese-logo-footylogos.svg",
+    "venue": "",
+    "start_time": "2026-11-22T19:45:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Serie A",
+    "format": "Club",
+    "team1": "Sassuolo",
+    "team1_logo": "https://assets.footylogos.com/logos/sassuolo/sassuolo-logo-footylogos.svg",
+    "team2": "Genoa",
+    "team2_logo": "https://assets.footylogos.com/logos/genoa/genoa-logo-footylogos.svg",
+    "venue": "",
+    "start_time": "2026-11-22T19:45:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Ligue 1",
+    "format": "Club",
+    "team1": "Paris",
+    "team1_logo": "https://assets.footylogos.com/logos/paris-fc/paris-fc-logo-footylogos.svg",
+    "team2": "Angers SCO",
+    "team2_logo": "https://assets.footylogos.com/logos/angers-sco/angers-sco-logo-footylogos.svg",
+    "venue": "",
+    "start_time": "2026-11-22T19:45:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Premier League",
+    "format": "Club",
+    "team1": "Liverpool",
+    "team1_logo": "https://assets.footylogos.com/logos/liverpool-fc/liverpool-fc-logo-footylogos.svg",
+    "team2": "Manchester United",
+    "team2_logo": "https://assets.footylogos.com/logos/manchester-united/manchester-united-logo-footylogos.svg",
+    "venue": "",
+    "start_time": "2026-11-22T22:15:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Serie A",
+    "format": "Club",
+    "team1": "Milan",
+    "team1_logo": "https://assets.footylogos.com/logos/ac-milan/ac-milan-logo-footylogos.svg",
+    "team2": "Frosinone",
+    "team2_logo": "https://assets.footylogos.com/logos/frosinone-calcio/frosinone-calcio-logo-footylogos.svg",
+    "venue": "",
+    "start_time": "2026-11-22T22:45:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Serie A",
+    "format": "Club",
+    "team1": "Atalanta",
+    "team1_logo": "https://assets.footylogos.com/logos/atalanta/atalanta-logo-footylogos.svg",
+    "team2": "Internazionale",
+    "team2_logo": "https://assets.footylogos.com/logos/inter-milan/inter-milan-logo-footylogos.svg",
+    "venue": "",
+    "start_time": "2026-11-23T01:30:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "LaLiga",
+    "format": "Club",
+    "team1": "Getafe",
+    "team1_logo": "https://assets.footylogos.com/logos/getafe-cf/getafe-cf-logo-footylogos.svg",
+    "team2": "Atlético Madrid",
+    "team2_logo": "https://assets.footylogos.com/logos/atletico-madrid/atletico-madrid-logo-footylogos.svg",
+    "venue": "",
+    "start_time": "2026-11-23T01:45:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "Ligue 1",
+    "format": "Club",
+    "team1": "Lorient",
+    "team1_logo": "https://assets.footylogos.com/logos/fc-lorient/fc-lorient-logo-footylogos.svg",
+    "team2": "Rennes",
+    "team2_logo": "https://assets.footylogos.com/logos/stade-rennais/stade-rennais-logo-footylogos.svg",
+    "venue": "",
+    "start_time": "2026-11-22T22:00:00+05:45",
+    "duration": 120
   }
 ]
