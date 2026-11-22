@@ -2292,6 +2292,10 @@
     {
       "name": "Server 3",
       "url": "https://wicket-goal.pages.dev/player/?id=NEP2"
+    },
+    {
+      "name": "Server 4",
+      "url": "https://wicket-goal.pages.dev/player/?id=NEP4"
     }
   ]
 }
