@@ -277,6 +277,115 @@
     "venue": "West End Park International Cricket Stadium, Doha",
     "start_time": "2026-11-29T15:45:00+05:45",
     "duration": 480
+  },
+
+  {
+    "sport": "cricket",
+    "league": "International League T20",
+    "format": "T20",
+    "team1": "Sharjah Warriorz",
+    "team1_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/394600/394631.png",
+    "team2": "Gulf Giants",
+    "team2_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/411100/411154.png",
+    "venue": "Sharjah Cricket Stadium, Sharjah",
+    "start_time": "2026-11-22T15:45:00+05:45",
+    "duration": 240
+  },
+  {
+    "sport": "cricket",
+    "league": "International League T20",
+    "format": "T20",
+    "team1": "Dubai Capitals",
+    "team1_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/411100/411155.png",
+    "team2": "Abu Dhabi Knight Riders",
+    "team2_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/349600/349617.png",
+    "venue": "Dubai International Cricket Stadium, Dubai",
+    "start_time": "2026-11-22T20:15:00+05:45",
+    "duration": 240
+  },
+  {
+    "sport": "cricket",
+    "league": "Bangladesh tour of South Africa, 2026",
+    "format": "Test",
+    "team1": "South Africa",
+    "team1_logo": "https://flagcdn.com/w160/za.png",
+    "team2": "Bangladesh",
+    "team2_logo": "https://flagcdn.com/w160/bd.png",
+    "venue": "SuperSport Park, Centurion",
+    "start_time": "2026-11-23T13:45:00+05:45",
+    "duration": 3000
+  },
+  {
+    "sport": "cricket",
+    "league": "International League T20",
+    "format": "T20",
+    "team1": "Sharjah Warriorz",
+    "team1_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/394600/394631.png",
+    "team2": "Desert Vipers",
+    "team2_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/411100/411156.png",
+    "venue": "Sharjah Cricket Stadium, Sharjah",
+    "start_time": "2026-11-23T20:15:00+05:45",
+    "duration": 240
+  },
+  {
+    "sport": "cricket",
+    "league": "International League T20",
+    "format": "T20",
+    "team1": "Gulf Giants",
+    "team1_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/411100/411154.png",
+    "team2": "MI Emirates",
+    "team2_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/344000/344077.png",
+    "venue": "Dubai International Cricket Stadium, Dubai",
+    "start_time": "2026-11-24T20:15:00+05:45",
+    "duration": 240
+  },
+  {
+    "sport": "cricket",
+    "league": "England tour of Australia, 2026",
+    "format": "T20I",
+    "team1": "Australia",
+    "team1_logo": "https://flagcdn.com/w160/au.png",
+    "team2": "England",
+    "team2_logo": "https://flagcdn.com/w160/gb-eng.png",
+    "venue": "Carrara Stadium, Carrara",
+    "start_time": "2026-11-24T14:00:00+05:45",
+    "duration": 240
+  },
+  {
+    "sport": "cricket",
+    "league": "International League T20",
+    "format": "T20",
+    "team1": "Dubai Capitals",
+    "team1_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/411100/411155.png",
+    "team2": "Desert Vipers",
+    "team2_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/411100/411156.png",
+    "venue": "Dubai International Cricket Stadium, Dubai",
+    "start_time": "2026-11-25T20:15:00+05:45",
+    "duration": 240
+  },
+  {
+    "sport": "cricket",
+    "league": "International League T20",
+    "format": "T20",
+    "team1": "Abu Dhabi Knight Riders",
+    "team1_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/349600/349617.png",
+    "team2": "MI Emirates",
+    "team2_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/344000/344077.png",
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "start_time": "2026-11-26T20:15:00+05:45",
+    "duration": 240
+  },
+  {
+    "sport": "cricket",
+    "league": "India tour of New Zealand, 2026",
+    "format": "Test",
+    "team1": "New Zealand",
+    "team1_logo": "https://flagcdn.com/w160/nz.png",
+    "team2": "India",
+    "team2_logo": "https://flagcdn.com/w160/in.png",
+    "venue": "Hagley Oval, Christchurch",
+    "start_time": "2026-11-27T03:45:00+05:45",
+    "duration": 3000
   }
   
 ]
