@@ -2171,5 +2171,19 @@
       "name": "Server 4",
       "url": "https://wicket-goal.pages.dev/player/?id=ASIA3"
     }
+  ],
+  "south-africa-vs-bangladesh": [
+    {
+      "name": "Server 1",
+      "url": "https://wicket-goal.pages.dev/player/?id=NEP1"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://wicket-goal.pages.dev/player/?id=NEP2"
+    },
+    {
+      "name": "Server 3",
+      "url": "https://wicket-goal.pages.dev/player/?id=ASIA1"
+    }
   ]
 }
