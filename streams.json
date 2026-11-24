@@ -2223,5 +2223,15 @@
       "name": "Server 3",
       "url": "https://wicket-goal.pages.dev/player/?id=ASIA1"
     }
+  ],
+  "gulf-giants-vs-mi-emirates": [
+    {
+      "name": "Server 1",
+      "url": "https://freecdn.st/hembedplayer/csstream7/1/960/540"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://freecdn.st/hembedplayer/csstream7/1/960/540"
+    }
   ]
 }
