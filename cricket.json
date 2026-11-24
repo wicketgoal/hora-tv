@@ -21,7 +21,7 @@
     "team2": "Australia",
     "team2_logo": "https://flagcdn.com/w80/au.png",
     "venue": "Melbourne",
-    "start_time": "2026-11-21T14:00:00+05:45",
+    "start_time": "2026-11-24T14:00:00+05:45",
     "duration": 240
   },
   
@@ -339,18 +339,7 @@
     "start_time": "2026-11-24T20:15:00+05:45",
     "duration": 240
   },
-  {
-    "sport": "cricket",
-    "league": "England tour of Australia, 2026",
-    "format": "T20I",
-    "team1": "Australia",
-    "team1_logo": "https://flagcdn.com/w160/au.png",
-    "team2": "England",
-    "team2_logo": "https://flagcdn.com/w160/gb-eng.png",
-    "venue": "Carrara Stadium, Carrara",
-    "start_time": "2026-11-24T14:00:00+05:45",
-    "duration": 240
-  },
+
   {
     "sport": "cricket",
     "league": "International League T20",
