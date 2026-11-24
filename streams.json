@@ -2199,11 +2199,11 @@
   "india-a-vs-uae": [
     {
       "name": "Server 1",
-      "url": "https://wicket-goal.pages.dev/player/?id=NEP1"
+      "url": "https://freecdn.st/hembedplayer/csstream8/1/960/540"
     },
     {
       "name": "Server 2",
-      "url": "https://wicket-goal.pages.dev/player/?id=NEP2"
+      "url": "https://wicket-goal.pages.dev/player/?id=NEP1"
     },
     {
       "name": "Server 3",
