@@ -2233,5 +2233,15 @@
       "name": "Server 2",
       "url": "https://freecdn.st/hembedplayer/csstream7/1/960/540"
     }
+  ],
+  "australia-vs-england": [
+    {
+      "name": "Server 1",
+      "url": "https://freecdn.st/hembedplayer/csstream2/1/960/540"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://freecdn.st/hembedplayer/csstream2/1/960/540"
+    }
   ]
 }
