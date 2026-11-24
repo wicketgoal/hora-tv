@@ -2051,11 +2051,15 @@
       "url": "https://wicket-goal.pages.dev/player/?id=NEP"
     },
     {
-      "name": "Server 2",
+      "name": "Action HD",
       "url": "https://wicket-goal.pages.dev/player/?id=NEP1"
     },
     {
-      "name": "Server 3",
+      "name": "Starzplay",
+      "url": "https://wicket-goal.pages.dev/player/?id=NEP2"
+    },
+    {
+      "name": "Server 4",
       "url": "https://wicket-goal.pages.dev/player/?id=NEP"
     }
   ],
