@@ -2267,5 +2267,19 @@
       "url": "https://sporrtsonline.top/channels/hd/hd3.php",
       "automatic": true
     }
+  ],
+  "india-a-vs-sri-lanka-a": [
+    {
+      "name": "Server 1",
+      "url": "https://wicket-goal.pages.dev/player/?id=NEP1"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://wicket-goal.pages.dev/player/?id=NEP"
+    },
+    {
+      "name": "Server 3",
+      "url": "https://wicket-goal.pages.dev/player/?id=NEP"
+    }
   ]
 }
