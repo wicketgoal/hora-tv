@@ -1,10 +1,10 @@
 [
   {
     "sport": "football",
-    "league": "UEFA Europa League",
+    "league": "UEFA Champions League",
     "format": "Club",
     "team1": "Bodø / Glimt",
-    "team1_logo": "https://assets.footylogos.com/logos/fk-bodo-glimt/fk-bodo-glimt-logo-footylogos.svg",
+    "team1_logo": "https://assets.footylogos.com/logos/bodo-glimt/bodo-glimt-logo-footylogos.svg",
     "team2": "LASK Linz",
     "team2_logo": "https://assets.footylogos.com/logos/lask/lask-logo-footylogos.svg",
     "venue": "",
@@ -21,18 +21,6 @@
     "team2_logo": "https://assets.footylogos.com/logos/aston-villa/aston-villa-logo-footylogos.svg",
     "venue": "",
     "start_time": "2026-11-24T23:30:00+05:45",
-    "duration": 120
-  },
-  {
-    "sport": "football",
-    "league": "UEFA Europa League",
-    "format": "Club",
-    "team1": "Como",
-    "team1_logo": "https://assets.footylogos.com/logos/como-1907/como-1907-logo-footylogos.svg",
-    "team2": "AEK Athens",
-    "team2_logo": "https://assets.footylogos.com/logos/aek-athens/aek-athens-logo-footylogos.svg",
-    "venue": "",
-    "start_time": "2026-11-25T01:45:00+05:45",
     "duration": 120
   },
   {
@@ -61,12 +49,12 @@
   },
   {
     "sport": "football",
-    "league": "UEFA Europa League",
+    "league": "UEFA Champions League",
     "format": "Club",
     "team1": "Slovan Bratislava",
-    "team1_logo": "https://assets.footylogos.com/logos/sk-slovan-bratislava/sk-slovan-bratislava-logo-footylogos.svg",
+    "team1_logo": "https://assets.footylogos.com/logos/slovan-bratislava/slovan-bratislava-logo-footylogos.svg",
     "team2": "Real Betis",
-    "team2_logo": "https://assets.footylogos.com/logos/real-betis-balompie/real-betis-balompie-logo-footylogos.svg",
+    "team2_logo": "https://assets.footylogos.com/logos/real-betis/real-betis-logo-footylogos.svg",
     "venue": "",
     "start_time": "2026-11-25T01:45:00+05:45",
     "duration": 120
@@ -103,6 +91,18 @@
     "team1_logo": "https://assets.footylogos.com/logos/arsenal/arsenal-logo-footylogos.svg",
     "team2": "Borussia Dortmund",
     "team2_logo": "https://assets.footylogos.com/logos/borussia-dortmund/borussia-dortmund-logo-footylogos.svg",
+    "venue": "",
+    "start_time": "2026-11-25T01:45:00+05:45",
+    "duration": 120
+  },
+  {
+    "sport": "football",
+    "league": "UEFA Champions League",
+    "format": "Club",
+    "team1": "Como",
+    "team1_logo": "https://assets.footylogos.com/logos/como-1907/como-1907-logo-footylogos.svg",
+    "team2": "AEK Athens",
+    "team2_logo": "https://assets.footylogos.com/logos/aek-athens/aek-athens-logo-footylogos.svg",
     "venue": "",
     "start_time": "2026-11-25T01:45:00+05:45",
     "duration": 120
