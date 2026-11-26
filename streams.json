@@ -2083,120 +2083,43 @@
       "url": "https://freecdn.st/hembedplayer/csstream2/1/960/540"
     }
   ],
-  "arsenal-vs-borussia-dortmund": [
+  "kairat-vs-mj-llby": [
     {
       "name": "Server 1",
-      "url": "https://sporrtsonline.top/channels/hd/hd2.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
       "url": "https://sporrtsonline.top/channels/hd/hd6.php",
       "automatic": true
     },
     {
-      "name": "Server 3",
+      "name": "Server 2",
+      "url": "https://sporrtsonline.top/channels/pt/eleven1.php",
+      "automatic": true
+    }
+  ],
+  "union-saint-gilloise-vs-lech-pozna": [
+    {
+      "name": "Server 1",
+      "url": "https://sporrtsonline.top/channels/hd/hd10.php",
+      "automatic": true
+    }
+  ],
+  "salzburg-vs-ararat-armenia": [
+    {
+      "name": "Server 1",
+      "url": "https://sporrtsonline.top/channels/hd/hd11.php",
+      "automatic": true
+    }
+  ],
+  "viktoria-plze-vs-benfica": [
+    {
+      "name": "Server 1",
+      "url": "https://sporrtsonline.top/channels/pt/sporttv5.php",
+      "automatic": true
+    }
+  ],
+  "olympiakos-piraeus-vs-milan": [
+    {
+      "name": "Server 1",
       "url": "https://sporrtsonline.top/channels/hd/hd5.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 4",
-      "url": "https://sporrtsonline.top/channels/hd/hd3.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 5",
-      "url": "https://sporrtsonline.top/channels/pt/eleven3.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 6",
-      "url": "https://sporrtsonline.top/channels/bra/br3.php",
-      "automatic": true
-    }
-  ],
-  "real-madrid-vs-psv": [
-    {
-      "name": "Server 1",
-      "url": "https://sporrtsonline.top/channels/hd/hd6.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://sporrtsonline.top/channels/hd/hd2.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 3",
-      "url": "https://sporrtsonline.top/channels/pt/eleven1.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 4",
-      "url": "https://sporrtsonline.top/channels/bra/br2.php",
-      "automatic": true
-    }
-  ],
-  "bod-glimt-vs-lask-linz": [
-    {
-      "name": "Server 1",
-      "url": "https://sporrtsonline.top/channels/hd/hd11.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://sporrtsonline.top/channels/hd/hd8.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 3",
-      "url": "https://sporrtsonline.top/channels/pt/eleven2.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 4",
-      "url": "https://sporrtsonline.top/channels/bra/br5.php",
-      "automatic": true
-    }
-  ],
-  "galatasaray-vs-aston-villa": [
-    {
-      "name": "Server 1",
-      "url": "https://sporrtsonline.top/channels/hd/hd2.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://sporrtsonline.top/channels/hd/hd4.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 3",
-      "url": "https://sporrtsonline.top/channels/pt/eleven1.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 4",
-      "url": "https://sporrtsonline.top/channels/bra/br2.php",
-      "automatic": true
-    }
-  ],
-  "como-vs-aek-athens": [
-    {
-      "name": "Server 1",
-      "url": "https://sporrtsonline.top/channels/hd/hd11.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://sporrtsonline.top/channels/hd/hd8.php",
-      "automatic": true
-    }
-  ],
-  "manchester-city-vs-napoli": [
-    {
-      "name": "Server 1",
-      "url": "https://sporrtsonline.top/channels/hd/hd1.php",
       "automatic": true
     },
     {
@@ -2208,46 +2131,140 @@
       "name": "Server 3",
       "url": "https://sporrtsonline.top/channels/pt/eleven2.php",
       "automatic": true
-    },
+    }
+  ],
+  "olympique-marseille-vs-levski-sofia": [
     {
-      "name": "Server 4",
-      "url": "https://sporrtsonline.top/channels/bra/br5.php",
+      "name": "Server 1",
+      "url": "https://sporrtsonline.top/channels/hd/hd4.php",
       "automatic": true
     }
   ],
-  "slovan-bratislava-vs-real-betis": [
+  "dinamo-zagreb-vs-bayer-leverkusen": [
+    {
+      "name": "Server 1",
+      "url": "https://sporrtsonline.top/channels/hd/hd3.php",
+      "automatic": true
+    }
+  ],
+  "celta-de-vigo-vs-afc-bournemouth": [
+    {
+      "name": "Server 1",
+      "url": "https://sporrtsonline.top/channels/hd/hd1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sporrtsonline.top/channels/hd/hd6.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://sporrtsonline.top/channels/pt/eleven3.php",
+      "automatic": true
+    }
+  ],
+  "be-ikta-vs-hapoel-be-er-sheva": [
+    {
+      "name": "Server 1",
+      "url": "https://sporrtsonline.top/channels/hd/hd9.php",
+      "automatic": true
+    }
+  ],
+  "hearts-vs-monaco": [
+    {
+      "name": "Server 1",
+      "url": "https://sporrtsonline.top/channels/hd/hd2.php",
+      "automatic": true
+    }
+  ],
+  "brighton-hove-albion-vs-csu-craiova": [
+    {
+      "name": "Server 1",
+      "url": "https://sporrtsonline.top/channels/hd/hd8.php",
+      "automatic": true
+    }
+  ],
+  "juventus-vs-omonia-nicosia": [
+    {
+      "name": "Server 1",
+      "url": "https://sporrtsonline.top/channels/hd/hd5.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sporrtsonline.top/channels/hd/hd7.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 3",
+      "url": "https://sporrtsonline.top/channels/pt/eleven3.php",
+      "automatic": true
+    }
+  ],
+  "sporting-braga-vs-kups": [
+    {
+      "name": "Server 1",
+      "url": "https://sporrtsonline.top/channels/pt/eleven2.php",
+      "automatic": true
+    }
+  ],
+  "nec-vs-rennes": [
+    {
+      "name": "Server 1",
+      "url": "https://sporrtsonline.top/channels/hd/hd4.php",
+      "automatic": true
+    }
+  ],
+  "crystal-palace-vs-real-sociedad": [
+    {
+      "name": "Server 1",
+      "url": "https://sporrtsonline.top/channels/hd/hd1.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sporrtsonline.top/channels/hd/hd6.php",
+      "automatic": true
+    }
+  ],
+  "cska-sofia-vs-trabzonspor": [
+    {
+      "name": "Server 1",
+      "url": "https://sporrtsonline.top/channels/hd/hd9.php",
+      "automatic": true
+    }
+  ],
+  "torreense-vs-celtic": [
+    {
+      "name": "Server 1",
+      "url": "https://sporrtsonline.top/channels/hd/hd2.php",
+      "automatic": true
+    },
+    {
+      "name": "Server 2",
+      "url": "https://sporrtsonline.top/channels/pt/eleven1.php",
+      "automatic": true
+    }
+  ],
+  "sunderland-vs-jagiellonia-bia-ystok": [
+    {
+      "name": "Server 1",
+      "url": "https://sporrtsonline.top/channels/hd/hd8.php",
+      "automatic": true
+    }
+  ],
+  "olympique-lyonnais-vs-lillestr-m": [
     {
       "name": "Server 1",
       "url": "https://sporrtsonline.top/channels/hd/hd10.php",
       "automatic": true
     }
   ],
-  "rb-leipzig-vs-lens": [
+  "freiburg-vs-twente": [
     {
       "name": "Server 1",
-      "url": "https://sporrtsonline.top/channels/hd/hd4.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://sporrtsonline.top/channels/bra/br6.php",
-      "automatic": true
-    }
-  ],
-  "feyenoord-vs-porto": [
-    {
-      "name": "Server 1",
-      "url": "https://sporrtsonline.top/channels/hd/hd9.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 2",
-      "url": "https://sporrtsonline.top/channels/pt/sporttv5.php",
-      "automatic": true
-    },
-    {
-      "name": "Server 3",
-      "url": "https://sporrtsonline.top/channels/bra/br4.php",
+      "url": "https://sporrtsonline.top/channels/hd/hd3.php",
       "automatic": true
     }
   ]
