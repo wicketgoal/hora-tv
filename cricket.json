@@ -109,6 +109,91 @@
     "venue": "Karen Rolton Oval, Adelaide",
     "start_time": "2026-11-29T10:15:00+05:45",
     "duration": 240
+  },
+
+  {
+    "sport": "cricket",
+    "league": "International League T20",
+    "format": "T20",
+    "team1": "Sharjah Warriorz",
+    "team1_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/394600/394631.png",
+    "team2": "Dubai Capitals",
+    "team2_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/411100/411155.png",
+    "venue": "Sharjah Cricket Stadium, Sharjah",
+    "start_time": "2026-11-27T20:15:00+05:45",
+    "duration": 240
+  },
+  {
+    "sport": "cricket",
+    "league": "International League T20",
+    "format": "T20",
+    "team1": "MI Emirates",
+    "team1_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/344000/344077.png",
+    "team2": "Desert Vipers",
+    "team2_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/411100/411156.png",
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "start_time": "2026-11-28T15:45:00+05:45",
+    "duration": 240
+  },
+  {
+    "sport": "cricket",
+    "league": "International League T20",
+    "format": "T20",
+    "team1": "Gulf Giants",
+    "team1_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/411100/411154.png",
+    "team2": "Dubai Capitals",
+    "team2_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/411100/411155.png",
+    "venue": "Dubai International Cricket Stadium, Dubai",
+    "start_time": "2026-11-28T20:15:00+05:45",
+    "duration": 240
+  },
+  {
+    "sport": "cricket",
+    "league": "International League T20",
+    "format": "T20",
+    "team1": "Abu Dhabi Knight Riders",
+    "team1_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/349600/349617.png",
+    "team2": "Sharjah Warriorz",
+    "team2_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/394600/394631.png",
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "start_time": "2026-11-29T15:45:00+05:45",
+    "duration": 240
+  },
+  {
+    "sport": "cricket",
+    "league": "International League T20",
+    "format": "T20",
+    "team1": "Desert Vipers",
+    "team1_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/411100/411156.png",
+    "team2": "Gulf Giants",
+    "team2_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/411100/411154.png",
+    "venue": "Dubai International Cricket Stadium, Dubai",
+    "start_time": "2026-11-29T20:15:00+05:45",
+    "duration": 240
+  },
+  {
+    "sport": "cricket",
+    "league": "International League T20",
+    "format": "T20",
+    "team1": "MI Emirates",
+    "team1_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/344000/344077.png",
+    "team2": "Abu Dhabi Knight Riders",
+    "team2_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/349600/349617.png",
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "start_time": "2026-11-30T20:15:00+05:45",
+    "duration": 240
+  },
+  {
+    "sport": "cricket",
+    "league": "International League T20",
+    "format": "T20",
+    "team1": "Gulf Giants",
+    "team1_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/411100/411154.png",
+    "team2": "Sharjah Warriorz",
+    "team2_logo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/394600/394631.png",
+    "venue": "Sharjah Cricket Stadium, Sharjah",
+    "start_time": "2026-12-01T20:15:00+05:45",
+    "duration": 240
   }
   
 ]
